@@ -1,0 +1,158 @@
+{
+  "frames": {
+    "brown-clap-15.png": {
+      "frame": { "x": 1, "y": 1, "w": 378, "h": 580 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 181, "y": 479, "w": 378, "h": 580 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-clap-18.png": {
+      "frame": { "x": 1, "y": 583, "w": 378, "h": 580 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 182, "y": 479, "w": 378, "h": 580 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-clap-19.png": {
+      "frame": { "x": 1, "y": 1165, "w": 378, "h": 580 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 182, "y": 479, "w": 378, "h": 580 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-clap-20.png": {
+      "frame": { "x": 1, "y": 1165, "w": 378, "h": 580 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 182, "y": 479, "w": 378, "h": 580 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-clap-21.png": {
+      "frame": { "x": 381, "y": 1, "w": 378, "h": 580 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 182, "y": 479, "w": 378, "h": 580 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-clap-22.png": {
+      "frame": { "x": 963, "y": 1, "w": 378, "h": 580 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 181, "y": 479, "w": 378, "h": 580 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-clap-23.png": {
+      "frame": { "x": 1545, "y": 1, "w": 378, "h": 580 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 181, "y": 479, "w": 378, "h": 580 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-clap-25.png": {
+      "frame": { "x": 381, "y": 381, "w": 378, "h": 580 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 182, "y": 479, "w": 378, "h": 580 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-clap-26.png": {
+      "frame": { "x": 963, "y": 381, "w": 378, "h": 580 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 182, "y": 479, "w": 378, "h": 580 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-clap-27.png": {
+      "frame": { "x": 1545, "y": 583, "w": 378, "h": 580 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 182, "y": 479, "w": 378, "h": 580 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-clap-28.png": {
+      "frame": { "x": 381, "y": 1165, "w": 378, "h": 580 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 181, "y": 479, "w": 378, "h": 580 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-clap-29.png": {
+      "frame": { "x": 381, "y": 761, "w": 378, "h": 580 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 181, "y": 479, "w": 378, "h": 580 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-clap-30.png": {
+      "frame": { "x": 963, "y": 761, "w": 378, "h": 580 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 182, "y": 479, "w": 378, "h": 580 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-clap-31.png": {
+      "frame": { "x": 761, "y": 1141, "w": 378, "h": 580 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 182, "y": 479, "w": 378, "h": 580 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-clap-32.png": {
+      "frame": { "x": 1343, "y": 1165, "w": 378, "h": 580 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 182, "y": 479, "w": 378, "h": 580 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-clap-33.png": {
+      "frame": { "x": 761, "y": 1521, "w": 378, "h": 580 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 182, "y": 479, "w": 378, "h": 580 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-clap-34.png": {
+      "frame": { "x": 1343, "y": 1545, "w": 378, "h": 580 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 182, "y": 479, "w": 378, "h": 580 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    }
+  },
+  "animations": {
+    "brown-clap": [
+      "brown-clap-15.png",
+      "brown-clap-18.png",
+      "brown-clap-19.png",
+      "brown-clap-20.png",
+      "brown-clap-21.png",
+      "brown-clap-22.png",
+      "brown-clap-23.png",
+      "brown-clap-25.png",
+      "brown-clap-26.png",
+      "brown-clap-27.png",
+      "brown-clap-28.png",
+      "brown-clap-29.png",
+      "brown-clap-30.png",
+      "brown-clap-31.png",
+      "brown-clap-32.png",
+      "brown-clap-33.png",
+      "brown-clap-34.png"
+    ]
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "brown-clap-0.png",
+    "format": "RGBA8888",
+    "size": { "w": 1924, "h": 1924 },
+    "scale": "1",
+    "related_multi_packs": [
+      "brown-clap-1.json",
+      "brown-clap-2.json",
+      "brown-clap-3.json"
+    ],
+    "smartupdate": "$TexturePacker:SmartUpdate:62a6015664eb5ad6ed9a3e87761214f3:43b8959960e8272f431fd7ec5e94892c:30275a68c911ab999e1fe16f0528de96$"
+  }
+}

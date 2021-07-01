@@ -1,0 +1,205 @@
+{
+    "characters":{
+        "yasuo": {
+            "skills": [
+                {
+                    "name" : "attack1",
+                    "animation": "attack1",
+                    "hits":[
+                        {
+                            "start":0.1,
+                            "damage": 8,
+                            "colliders":[
+                                [100, -460, 330, 400]
+                            ],
+                            "effPos":{"x": 55, "y": -70},
+                            "hitstop": 10,
+                            "force": {"x": 20, "y": 0}
+                        }
+                    ],
+                    "sound": "yasuo-attack1",
+                    "cooldown": 0
+                },
+                {
+                    "name" : "attack2",
+                    "animation": "attack2",
+                    "hits":[
+                        {
+                            "start":0.3333,
+                            "damage": 10,
+                            "colliders":[
+                                [100, -260, 500, 50]
+                            ],
+                            "effPos":{"x": 55, "y": -70},
+                            "hitstop": 5,
+                            "force": {"x": 20, "y": 0}
+                        }
+                    ],
+                    "sound": "yasuo-attack2",
+                    "cooldown": 0
+                },
+                {
+                    "name" : "attack3",
+                    "animation": "attack3",
+                    "hits":[
+                        {
+                            "start":0.2333,
+                            "damage": 12,
+                            "colliders":[
+                                [100, -450, 400, 400]
+                            ],
+                            "effPos":{"x": 55, "y": -70},
+                            "hitstop": 6,
+                            "force": {"x": 10, "y": 0}
+                        }
+                    ],
+                    "sound": "yasuo-attack3",
+                    "cooldown": 0
+                },
+                {
+                    "name" : "ult",
+                    "animation": "skill",
+                    "hits":[
+                        {
+                            "start":0.45,
+                            "damage": 12,
+                            "colliders":[
+                                [-400, -550, 600, 500]
+                            ],
+                            "effPos":{"x": 55, "y": -70},
+                            "hitstop": 10,
+                            "force": {"x": 0, "y": 60},
+                            "isHeavy": true
+                        },
+                        {
+                            "start":0.75,
+                            "damage": 10,
+                            "colliders":[
+                                [-500, -500, 500, 450]
+                            ],
+                            "effPos":{"x": 55, "y": -70},
+                            "hitstop": 6,
+                            "force": {"x": 0, "y": 0},
+                            "isHeavy": true
+                        },
+                        {
+                            "start":0.95,
+                            "damage": 10,
+                            "colliders":[
+                                [-200, -450, 600, 500]
+                            ],
+                            "effPos":{"x": 55, "y": -70},
+                            "hitstop": 6,
+                            "force": {"x": 0, "y": 0},
+                            "isHeavy": true
+                        }
+                    ],
+                    "cooldown": 0,
+                    "sound": "yasuo-ult"
+                }
+            ],
+            "normalAttacks": ["attack1", "attack2", "attack3"],
+            "rangedAttack": "attack3",
+            "rangedEffect": {
+                "animations": [{
+                    "fly": "wing",
+                    "hit": null
+                }],
+                "colliderWidth": 200,
+                "colliderHeight": 500,
+                "offset":{"x":200, "y": 0},
+                "colliderOffset":{"x":0, "y": 0}
+            }
+        },
+        "qiyana": {
+            "skills": [
+                {
+                    "name" : "attack1",
+                    "animation": "attack1",
+                    "hits":[
+                        {
+                            "start":0.4,
+                            "damage": 8,
+                            "colliders":[
+                                [100, -460, 300, 300]
+                            ],
+                            "effPos":{"x": 55, "y": -70},
+                            "hitstop": 8,
+                            "force": {"x": 20, "y": 0}
+                        }
+                    ],
+                    "sound": "qiyana-attack1",
+                    "cooldown": 0
+                },
+                {
+                    "name" : "attack2",
+                    "animation": "attack2",
+                    "hits":[
+                        {
+                            "start":0.3,
+                            "damage": 10,
+                            "colliders":[
+                                [100, -460, 400, 400]
+                            ],
+                            "effPos":{"x": 55, "y": -70},
+                            "hitstop": 8,
+                            "force": {"x": 20, "y": 0}
+                        }
+                    ],
+                    "sound": "qiyana-attack2",
+                    "cooldown": 0
+                },
+                {
+                    "name" : "attack3",
+                    "animation": "attack3",
+                    "hits":[
+                        {
+                            "start":0.3,
+                            "damage": 12,
+                            "colliders":[
+                                [100, -460, 500, 400]
+                            ],
+                            "effPos":{"x": 55, "y": -70},
+                            "hitstop": 10,
+                            "force": {"x": 20, "y": 0}
+                        }
+                    ],
+                    "sound": ["qiyana-attack3-fire","qiyana-attack3-grass","qiyana-attack3-water"],
+                    "cooldown": 0
+                },
+                {
+                    "name" : "ult",
+                    "animation": "skill",
+                    "hits":[
+
+                    ],
+                    "sound": "qiyana-ult",
+                    "cooldown": 0
+                }
+            ],
+            "normalAttacks": ["attack1", "attack2", "attack3"],
+            "rangedAttack": "attack3",
+            "rangedEffect": {
+                "animations": [
+                    {
+                        "fly": "attack_fire_fly",
+                        "hit": "attack_fire_hit"
+                    },
+                    {
+                        "fly": "attack_tree_fly",
+                        "hit": "attack_tree_hit"
+                    },
+                    {
+                        "fly": "attack_water_fly",
+                        "hit": "attack_water_hit"
+                    }
+                ],
+                "colliderWidth": 200,
+                "colliderHeight": 200,
+                "offset":{"x":200, "y": -200},
+                "colliderOffset":{"x":0, "y": 0},
+                "stopOnCollisionEnter": true
+            }
+        }
+    }
+}

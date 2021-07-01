@@ -1,0 +1,13 @@
+
+SC05_Guest.png
+size: 256,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SC05/G_01
+  rotate: false
+  xy: 2, 2
+  size: 213, 324
+  orig: 213, 324
+  offset: 0, 0
+  index: -1

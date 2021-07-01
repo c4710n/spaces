@@ -1,0 +1,168 @@
+{
+  "frames": {
+    "cony-sleep-01.png": {
+      "frame": { "x": 1, "y": 383, "w": 380, "h": 681 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 185, "y": 380, "w": 380, "h": 681 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-sleep-02.png": {
+      "frame": { "x": 684, "y": 383, "w": 380, "h": 681 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 185, "y": 380, "w": 380, "h": 681 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-sleep-03.png": {
+      "frame": { "x": 1, "y": 765, "w": 380, "h": 681 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 185, "y": 380, "w": 380, "h": 681 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-sleep-04.png": {
+      "frame": { "x": 684, "y": 765, "w": 380, "h": 681 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 185, "y": 380, "w": 380, "h": 681 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-sleep-10.png": {
+      "frame": { "x": 1, "y": 1, "w": 380, "h": 682 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 184, "y": 379, "w": 380, "h": 682 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-sleep-11.png": {
+      "frame": { "x": 685, "y": 1, "w": 380, "h": 682 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 182, "y": 379, "w": 380, "h": 682 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-sleep-12.png": {
+      "frame": { "x": 1, "y": 1147, "w": 381, "h": 683 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 180, "y": 378, "w": 381, "h": 683 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-sleep-13.png": {
+      "frame": { "x": 1, "y": 1530, "w": 381, "h": 683 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 178, "y": 378, "w": 381, "h": 683 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-sleep-14.png": {
+      "frame": { "x": 1365, "y": 1152, "w": 381, "h": 682 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 176, "y": 379, "w": 381, "h": 682 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-sleep-15.png": {
+      "frame": { "x": 1367, "y": 385, "w": 381, "h": 680 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 171, "y": 381, "w": 381, "h": 680 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-sleep-16.png": {
+      "frame": { "x": 686, "y": 1147, "w": 382, "h": 677 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 168, "y": 384, "w": 382, "h": 677 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-sleep-17.png": {
+      "frame": { "x": 686, "y": 1531, "w": 383, "h": 675 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 166, "y": 386, "w": 383, "h": 675 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-sleep-85.png": {
+      "frame": { "x": 1369, "y": 1, "w": 382, "h": 676 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 172, "y": 385, "w": 382, "h": 676 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-sleep-86.png": {
+      "frame": { "x": 1367, "y": 768, "w": 382, "h": 678 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 173, "y": 383, "w": 382, "h": 678 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-sleep-87.png": {
+      "frame": { "x": 1363, "y": 1535, "w": 382, "h": 680 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 175, "y": 381, "w": 382, "h": 680 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-sleep-89.png": {
+      "frame": { "x": 685, "y": 1, "w": 380, "h": 682 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 182, "y": 379, "w": 380, "h": 682 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-sleep-96.png": {
+      "frame": { "x": 684, "y": 765, "w": 380, "h": 681 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 185, "y": 380, "w": 380, "h": 681 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-sleep-97.png": {
+      "frame": { "x": 1, "y": 765, "w": 380, "h": 681 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 185, "y": 380, "w": 380, "h": 681 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    }
+  },
+  "animations": {
+    "cony-sleep": [
+      "cony-sleep-01.png",
+      "cony-sleep-02.png",
+      "cony-sleep-03.png",
+      "cony-sleep-04.png",
+      "cony-sleep-10.png",
+      "cony-sleep-11.png",
+      "cony-sleep-12.png",
+      "cony-sleep-13.png",
+      "cony-sleep-14.png",
+      "cony-sleep-15.png",
+      "cony-sleep-16.png",
+      "cony-sleep-17.png",
+      "cony-sleep-85.png",
+      "cony-sleep-86.png",
+      "cony-sleep-87.png",
+      "cony-sleep-89.png",
+      "cony-sleep-96.png",
+      "cony-sleep-97.png"
+    ]
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "cony-sleep-0.png",
+    "format": "RGBA8888",
+    "size": { "w": 2048, "h": 1918 },
+    "scale": "1",
+    "related_multi_packs": [
+      "cony-sleep-1.json",
+      "cony-sleep-2.json",
+      "cony-sleep-3.json",
+      "cony-sleep-4.json",
+      "cony-sleep-5.json"
+    ],
+    "smartupdate": "$TexturePacker:SmartUpdate:c622a075d939bc8ef5b0f14f20796e73:176837e9b3025da46d56058a2d95fc5d:56f4418acf3a398a92299504591f60ff$"
+  }
+}

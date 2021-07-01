@@ -1,0 +1,160 @@
+
+LS.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Freeze/LS/Body
+  rotate: false
+  xy: 2, 25
+  size: 520, 336
+  orig: 520, 336
+  offset: 0, 0
+  index: -1
+Freeze/LS/Cloak
+  rotate: false
+  xy: 1827, 744
+  size: 200, 264
+  orig: 200, 264
+  offset: 0, 0
+  index: -1
+Freeze/LS/Hair
+  rotate: false
+  xy: 1433, 302
+  size: 270, 233
+  orig: 270, 233
+  offset: 0, 0
+  index: -1
+Freeze/LS/Head_1
+  rotate: true
+  xy: 1705, 310
+  size: 225, 220
+  orig: 225, 220
+  offset: 0, 0
+  index: -1
+Freeze/LS/Head_2
+  rotate: false
+  xy: 524, 233
+  size: 157, 128
+  orig: 157, 128
+  offset: 0, 0
+  index: -1
+Freeze/LS/Ice
+  rotate: false
+  xy: 1367, 537
+  size: 458, 471
+  orig: 458, 471
+  offset: 0, 0
+  index: -1
+Freeze/LS/Ice_Base
+  rotate: true
+  xy: 714, 37
+  size: 453, 465
+  orig: 453, 465
+  offset: 0, 0
+  index: -1
+Freeze/LS/Ice_Light
+  rotate: false
+  xy: 2, 363
+  size: 710, 645
+  orig: 710, 645
+  offset: 0, 0
+  index: -1
+Freeze/LS/Melt_Ice_1
+  rotate: false
+  xy: 1367, 495
+  size: 61, 40
+  orig: 61, 40
+  offset: 0, 0
+  index: -1
+Freeze/LS/Melt_Ice_2
+  rotate: false
+  xy: 1827, 646
+  size: 106, 96
+  orig: 106, 96
+  offset: 0, 0
+  index: -1
+Freeze/LS/Melt_Ice_3
+  rotate: false
+  xy: 1354, 122
+  size: 46, 56
+  orig: 46, 56
+  offset: 0, 0
+  index: -1
+Freeze/LS/Star
+  rotate: false
+  xy: 524, 145
+  size: 76, 86
+  orig: 76, 86
+  offset: 0, 0
+  index: -1
+Freeze/LS/Symbol_Line
+  rotate: false
+  xy: 714, 492
+  size: 651, 516
+  orig: 651, 516
+  offset: 0, 0
+  index: -1
+Freeze/LS/Symbol_Mark
+  rotate: true
+  xy: 1181, 69
+  size: 109, 171
+  orig: 109, 171
+  offset: 0, 0
+  index: -1
+Freeze/LS/Symbol_Pong
+  rotate: true
+  xy: 1181, 180
+  size: 310, 250
+  orig: 310, 250
+  offset: 0, 0
+  index: -1
+Freeze/LS/Tail
+  rotate: false
+  xy: 1433, 80
+  size: 243, 220
+  orig: 243, 220
+  offset: 0, 0
+  index: -1
+Heat/LS/Head_1
+  rotate: false
+  xy: 1678, 80
+  size: 225, 220
+  orig: 225, 220
+  offset: 0, 0
+  index: -1
+Heat/LS/Heat
+  rotate: false
+  xy: 2, 2
+  size: 48, 21
+  orig: 48, 21
+  offset: 0, 0
+  index: -1
+Heat/LS/Sweat_1
+  rotate: false
+  xy: 1827, 628
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+Heat/LS/Sweat_2
+  rotate: false
+  xy: 2029, 987
+  size: 14, 21
+  orig: 14, 21
+  offset: 0, 0
+  index: -1
+Heat/LS/Sweat_3
+  rotate: false
+  xy: 683, 340
+  size: 13, 21
+  orig: 13, 21
+  offset: 0, 0
+  index: -1
+Heat/LS/Sweat_4
+  rotate: false
+  xy: 1181, 47
+  size: 13, 20
+  orig: 13, 20
+  offset: 0, 0
+  index: -1

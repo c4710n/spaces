@@ -1,0 +1,188 @@
+
+YI.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Freeze/YI/Body
+  rotate: true
+  xy: 1348, 615
+  size: 407, 517
+  orig: 407, 517
+  offset: 0, 0
+  index: -1
+Freeze/YI/Cap
+  rotate: false
+  xy: 1867, 838
+  size: 127, 184
+  orig: 127, 184
+  offset: 0, 0
+  index: -1
+Freeze/YI/Head
+  rotate: true
+  xy: 1867, 668
+  size: 168, 104
+  orig: 168, 104
+  offset: 0, 0
+  index: -1
+Freeze/YI/Ice
+  rotate: true
+  xy: 695, 186
+  size: 318, 597
+  orig: 318, 597
+  offset: 0, 0
+  index: -1
+Freeze/YI/Ice_Base
+  rotate: true
+  xy: 1348, 301
+  size: 312, 596
+  orig: 312, 596
+  offset: 0, 0
+  index: -1
+Freeze/YI/Ice_Light
+  rotate: false
+  xy: 2, 164
+  size: 691, 858
+  orig: 691, 858
+  offset: 0, 0
+  index: -1
+Freeze/YI/L_Eye
+  rotate: false
+  xy: 2, 17
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+Freeze/YI/L_Leg
+  rotate: true
+  xy: 2, 47
+  size: 115, 181
+  orig: 115, 181
+  offset: 0, 0
+  index: -1
+Freeze/YI/R_Eye
+  rotate: false
+  xy: 1867, 639
+  size: 28, 27
+  orig: 28, 27
+  offset: 0, 0
+  index: -1
+Freeze/YI/R_Leg
+  rotate: false
+  xy: 1717, 150
+  size: 107, 149
+  orig: 107, 149
+  offset: 0, 0
+  index: -1
+Freeze/YI/Symbol_Line
+  rotate: false
+  xy: 695, 506
+  size: 651, 516
+  orig: 651, 516
+  offset: 0, 0
+  index: -1
+Freeze/YI/Symbol_Mark
+  rotate: false
+  xy: 1606, 128
+  size: 109, 171
+  orig: 109, 171
+  offset: 0, 0
+  index: -1
+Freeze/YI/Symbol_Pong
+  rotate: false
+  xy: 1294, 49
+  size: 310, 250
+  orig: 310, 250
+  offset: 0, 0
+  index: -1
+Heat/YI/Head
+  rotate: false
+  xy: 185, 58
+  size: 168, 104
+  orig: 168, 104
+  offset: 0, 0
+  index: -1
+Heat/YI/L_Eye
+  rotate: false
+  xy: 1294, 462
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+Melt/YI/L_Eye
+  rotate: false
+  xy: 1294, 462
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+Normal/YI/L_Eye
+  rotate: false
+  xy: 1294, 462
+  size: 46, 42
+  orig: 46, 42
+  offset: 0, 0
+  index: -1
+Heat/YI/R_Eye
+  rotate: true
+  xy: 1996, 965
+  size: 57, 50
+  orig: 57, 50
+  offset: 0, 0
+  index: -1
+Melt/YI/R_Eye
+  rotate: true
+  xy: 1996, 965
+  size: 57, 50
+  orig: 57, 50
+  offset: 0, 0
+  index: -1
+Normal/YI/R_Eye
+  rotate: true
+  xy: 1996, 965
+  size: 57, 50
+  orig: 57, 50
+  offset: 0, 0
+  index: -1
+Heat/YI/Sweat_1
+  rotate: false
+  xy: 1973, 820
+  size: 15, 16
+  orig: 15, 16
+  offset: 0, 0
+  index: -1
+Heat/YI/Sweat_2
+  rotate: true
+  xy: 2, 2
+  size: 13, 18
+  orig: 13, 18
+  offset: 0, 0
+  index: -1
+Heat/YI/Sweat_3
+  rotate: true
+  xy: 695, 172
+  size: 12, 21
+  orig: 12, 21
+  offset: 0, 0
+  index: -1
+Melt/YI/Melt_Ice_1
+  rotate: true
+  xy: 1996, 923
+  size: 40, 50
+  orig: 40, 50
+  offset: 0, 0
+  index: -1
+Melt/YI/Melt_Ice_2
+  rotate: true
+  xy: 355, 83
+  size: 79, 125
+  orig: 79, 125
+  offset: 0, 0
+  index: -1
+Melt/YI/Melt_Ice_3
+  rotate: false
+  xy: 1606, 68
+  size: 71, 58
+  orig: 71, 58
+  offset: 0, 0
+  index: -1

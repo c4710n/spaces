@@ -1,0 +1,55 @@
+
+cc.png
+size: 1012,263
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+bear
+  rotate: true
+  xy: 2, 2
+  size: 259, 289
+  orig: 259, 289
+  offset: 0, 0
+  index: -1
+bear2
+  rotate: true
+  xy: 927, 174
+  size: 87, 83
+  orig: 259, 289
+  offset: 5, 49
+  index: -1
+car
+  rotate: false
+  xy: 293, 35
+  size: 487, 226
+  orig: 487, 226
+  offset: 0, 0
+  index: -1
+lunzi
+  rotate: false
+  xy: 927, 56
+  size: 75, 116
+  orig: 79, 116
+  offset: 4, 0
+  index: -1
+lunzib1
+  rotate: true
+  xy: 782, 5
+  size: 49, 100
+  orig: 49, 100
+  offset: 0, 0
+  index: -1
+lunzib2
+  rotate: true
+  xy: 884, 5
+  size: 49, 100
+  orig: 49, 100
+  offset: 0, 0
+  index: -1
+smoke
+  rotate: true
+  xy: 782, 56
+  size: 205, 143
+  orig: 205, 143
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,103 @@
+{
+  "frames": {
+    "brown-shy-12.png": {
+      "frame": { "x": 1144, "y": 1, "w": 381, "h": 565 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 190, "y": 498, "w": 381, "h": 565 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-shy-13.png": {
+      "frame": { "x": 1144, "y": 1, "w": 381, "h": 565 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 190, "y": 498, "w": 381, "h": 565 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-shy-14.png": {
+      "frame": { "x": 1143, "y": 384, "w": 381, "h": 565 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 190, "y": 498, "w": 381, "h": 565 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-shy-16.png": {
+      "frame": { "x": 1143, "y": 767, "w": 382, "h": 565 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 190, "y": 498, "w": 382, "h": 565 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-shy-21.png": {
+      "frame": { "x": 573, "y": 1, "w": 381, "h": 569 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 198, "y": 494, "w": 381, "h": 569 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-shy-22.png": {
+      "frame": { "x": 572, "y": 767, "w": 382, "h": 569 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 198, "y": 494, "w": 382, "h": 569 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-shy-23.png": {
+      "frame": { "x": 1, "y": 384, "w": 381, "h": 569 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 198, "y": 494, "w": 381, "h": 569 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-shy-24.png": {
+      "frame": { "x": 572, "y": 384, "w": 381, "h": 569 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 197, "y": 494, "w": 381, "h": 569 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-shy-25.png": {
+      "frame": { "x": 1, "y": 767, "w": 381, "h": 569 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 196, "y": 494, "w": 381, "h": 569 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-shy-44.png": {
+      "frame": { "x": 1, "y": 1, "w": 381, "h": 570 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 188, "y": 492, "w": 381, "h": 570 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    }
+  },
+  "animations": {
+    "brown-shy": [
+      "brown-shy-12.png",
+      "brown-shy-13.png",
+      "brown-shy-14.png",
+      "brown-shy-16.png",
+      "brown-shy-21.png",
+      "brown-shy-22.png",
+      "brown-shy-23.png",
+      "brown-shy-24.png",
+      "brown-shy-25.png",
+      "brown-shy-44.png"
+    ]
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "brown-shy-4.png",
+    "format": "RGBA8888",
+    "size": { "w": 1710, "h": 1150 },
+    "scale": "1",
+    "related_multi_packs": [
+      "brown-shy-0.json",
+      "brown-shy-1.json",
+      "brown-shy-2.json",
+      "brown-shy-3.json"
+    ],
+    "smartupdate": "$TexturePacker:SmartUpdate:a8b06bb057db3a7eb552c746a914cd79:beb2f320a588c35ac1d8d81b408904f1:61ff071003bce0ba648762106bd9ab2f$"
+  }
+}

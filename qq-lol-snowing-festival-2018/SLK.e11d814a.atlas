@@ -1,0 +1,286 @@
+
+SLK.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Freeze/SLK/Body
+  rotate: false
+  xy: 1232, 1500
+  size: 178, 132
+  orig: 178, 132
+  offset: 0, 0
+  index: -1
+Freeze/SLK/Dress
+  rotate: false
+  xy: 1033, 1226
+  size: 251, 261
+  orig: 251, 261
+  offset: 0, 0
+  index: -1
+Freeze/SLK/Hair
+  rotate: true
+  xy: 2, 34
+  size: 186, 241
+  orig: 186, 241
+  offset: 0, 0
+  index: -1
+Freeze/SLK/Head
+  rotate: false
+  xy: 1430, 1760
+  size: 305, 286
+  orig: 305, 286
+  offset: 0, 0
+  index: -1
+Freeze/SLK/Ice
+  rotate: false
+  xy: 721, 1489
+  size: 509, 557
+  orig: 509, 557
+  offset: 0, 0
+  index: -1
+Freeze/SLK/Ice_Base
+  rotate: false
+  xy: 2, 222
+  size: 505, 552
+  orig: 505, 552
+  offset: 0, 0
+  index: -1
+Freeze/SLK/Ice_Light
+  rotate: false
+  xy: 2, 1294
+  size: 717, 752
+  orig: 717, 752
+  offset: 0, 0
+  index: -1
+Freeze/SLK/L_Arm
+  rotate: true
+  xy: 509, 433
+  size: 105, 96
+  orig: 105, 96
+  offset: 0, 0
+  index: -1
+Freeze/SLK/L_Eye
+  rotate: false
+  xy: 356, 64
+  size: 65, 51
+  orig: 65, 51
+  offset: 0, 0
+  index: -1
+Freeze/SLK/L_Eye_Brow
+  rotate: false
+  xy: 454, 136
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+Freeze/SLK/L_Hand
+  rotate: false
+  xy: 1232, 1634
+  size: 196, 412
+  orig: 196, 412
+  offset: 0, 0
+  index: -1
+Freeze/SLK/L_Leg
+  rotate: false
+  xy: 509, 540
+  size: 101, 234
+  orig: 101, 234
+  offset: 0, 0
+  index: -1
+Freeze/SLK/Mouth
+  rotate: true
+  xy: 1412, 1596
+  size: 36, 12
+  orig: 36, 12
+  offset: 0, 0
+  index: -1
+Freeze/SLK/R_Arm
+  rotate: false
+  xy: 509, 348
+  size: 87, 83
+  orig: 87, 83
+  offset: 0, 0
+  index: -1
+Freeze/SLK/R_Eye
+  rotate: false
+  xy: 509, 295
+  size: 61, 51
+  orig: 61, 51
+  offset: 0, 0
+  index: -1
+Freeze/SLK/R_Eye_Brow
+  rotate: false
+  xy: 356, 50
+  size: 14, 12
+  orig: 14, 12
+  offset: 0, 0
+  index: -1
+Freeze/SLK/R_Hand
+  rotate: false
+  xy: 655, 1214
+  size: 60, 78
+  orig: 60, 78
+  offset: 0, 0
+  index: -1
+Freeze/SLK/R_Leg
+  rotate: true
+  xy: 1430, 1683
+  size: 75, 225
+  orig: 75, 225
+  offset: 0, 0
+  index: -1
+Freeze/SLK/Symbol_Line
+  rotate: false
+  xy: 2, 776
+  size: 651, 516
+  orig: 651, 516
+  offset: 0, 0
+  index: -1
+Freeze/SLK/Symbol_Mark
+  rotate: false
+  xy: 245, 49
+  size: 109, 171
+  orig: 109, 171
+  offset: 0, 0
+  index: -1
+Freeze/SLK/Symbol_Pong
+  rotate: false
+  xy: 721, 1237
+  size: 310, 250
+  orig: 310, 250
+  offset: 0, 0
+  index: -1
+Heat/SLK/Head
+  rotate: false
+  xy: 1737, 1760
+  size: 305, 286
+  orig: 305, 286
+  offset: 0, 0
+  index: -1
+Heat/SLK/Heat
+  rotate: true
+  xy: 2, 2
+  size: 30, 12
+  orig: 30, 12
+  offset: 0, 0
+  index: -1
+Heat/SLK/L_Eye
+  rotate: true
+  xy: 454, 155
+  size: 65, 51
+  orig: 65, 51
+  offset: 0, 0
+  index: -1
+Melt/SLK/L_Eye
+  rotate: true
+  xy: 454, 155
+  size: 65, 51
+  orig: 65, 51
+  offset: 0, 0
+  index: -1
+Normal/SLK/L_Eye
+  rotate: true
+  xy: 454, 155
+  size: 65, 51
+  orig: 65, 51
+  offset: 0, 0
+  index: -1
+Heat/SLK/Mouth
+  rotate: false
+  xy: 612, 755
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+Melt/SLK/Mouth
+  rotate: false
+  xy: 612, 755
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+Normal/SLK/Mouth
+  rotate: false
+  xy: 612, 755
+  size: 31, 19
+  orig: 31, 19
+  offset: 0, 0
+  index: -1
+Heat/SLK/R_Eye
+  rotate: true
+  xy: 655, 1151
+  size: 61, 51
+  orig: 61, 51
+  offset: 0, 0
+  index: -1
+Melt/SLK/R_Eye
+  rotate: true
+  xy: 655, 1151
+  size: 61, 51
+  orig: 61, 51
+  offset: 0, 0
+  index: -1
+Normal/SLK/R_Eye
+  rotate: true
+  xy: 655, 1151
+  size: 61, 51
+  orig: 61, 51
+  offset: 0, 0
+  index: -1
+Heat/SLK/Sweat_1
+  rotate: true
+  xy: 245, 34
+  size: 13, 19
+  orig: 13, 19
+  offset: 0, 0
+  index: -1
+Heat/SLK/Sweat_2
+  rotate: false
+  xy: 1707, 1735
+  size: 15, 23
+  orig: 15, 23
+  offset: 0, 0
+  index: -1
+Heat/SLK/Sweat_3
+  rotate: false
+  xy: 423, 92
+  size: 15, 23
+  orig: 15, 23
+  offset: 0, 0
+  index: -1
+Heat/SLK/Sweat_4
+  rotate: false
+  xy: 509, 274
+  size: 15, 19
+  orig: 15, 19
+  offset: 0, 0
+  index: -1
+Heat/SLK/Sweat_5
+  rotate: false
+  xy: 572, 328
+  size: 15, 18
+  orig: 15, 18
+  offset: 0, 0
+  index: -1
+Melt/SLK/Melt_Ice_1
+  rotate: false
+  xy: 356, 117
+  size: 96, 103
+  orig: 96, 103
+  offset: 0, 0
+  index: -1
+Melt/SLK/Melt_Ice_2
+  rotate: false
+  xy: 1657, 1689
+  size: 48, 69
+  orig: 48, 69
+  offset: 0, 0
+  index: -1
+Melt/SLK/Melt_Ice_3
+  rotate: false
+  xy: 1430, 1635
+  size: 58, 46
+  orig: 58, 46
+  offset: 0, 0
+  index: -1

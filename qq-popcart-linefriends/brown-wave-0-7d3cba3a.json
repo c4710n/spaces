@@ -1,0 +1,135 @@
+{
+  "frames": {
+    "brown-wave-01.png": {
+      "frame": { "x": 1536, "y": 1152, "w": 378, "h": 569 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 186, "y": 492, "w": 378, "h": 569 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-wave-15.png": {
+      "frame": { "x": 1155, "y": 1152, "w": 379, "h": 571 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 186, "y": 491, "w": 379, "h": 571 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-wave-16.png": {
+      "frame": { "x": 775, "y": 1153, "w": 378, "h": 572 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 187, "y": 490, "w": 378, "h": 572 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-wave-17.png": {
+      "frame": { "x": 1168, "y": 387, "w": 378, "h": 573 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 187, "y": 489, "w": 378, "h": 573 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-wave-18.png": {
+      "frame": { "x": 1168, "y": 1, "w": 384, "h": 575 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 181, "y": 487, "w": 384, "h": 575 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-wave-19.png": {
+      "frame": { "x": 1, "y": 578, "w": 387, "h": 575 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 178, "y": 487, "w": 387, "h": 575 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-wave-20.png": {
+      "frame": { "x": 780, "y": 1, "w": 386, "h": 574 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 177, "y": 488, "w": 386, "h": 574 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-wave-21.png": {
+      "frame": { "x": 1164, "y": 767, "w": 383, "h": 570 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 176, "y": 492, "w": 383, "h": 570 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-wave-30.png": {
+      "frame": { "x": 390, "y": 1153, "w": 383, "h": 572 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 183, "y": 490, "w": 383, "h": 572 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-wave-31.png": {
+      "frame": { "x": 390, "y": 578, "w": 384, "h": 573 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 183, "y": 489, "w": 384, "h": 573 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-wave-32.png": {
+      "frame": { "x": 391, "y": 1, "w": 387, "h": 574 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 181, "y": 488, "w": 387, "h": 574 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-wave-33.png": {
+      "frame": { "x": 1, "y": 1, "w": 388, "h": 575 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 178, "y": 487, "w": 388, "h": 575 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-wave-34.png": {
+      "frame": { "x": 1, "y": 1155, "w": 387, "h": 574 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 177, "y": 488, "w": 387, "h": 574 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-wave-35.png": {
+      "frame": { "x": 776, "y": 577, "w": 386, "h": 572 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 176, "y": 490, "w": 386, "h": 572 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    }
+  },
+  "animations": {
+    "brown-wave": [
+      "brown-wave-01.png",
+      "brown-wave-15.png",
+      "brown-wave-16.png",
+      "brown-wave-17.png",
+      "brown-wave-18.png",
+      "brown-wave-19.png",
+      "brown-wave-20.png",
+      "brown-wave-21.png",
+      "brown-wave-30.png",
+      "brown-wave-31.png",
+      "brown-wave-32.png",
+      "brown-wave-33.png",
+      "brown-wave-34.png",
+      "brown-wave-35.png"
+    ]
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "brown-wave-0.png",
+    "format": "RGBA8888",
+    "size": { "w": 1915, "h": 1730 },
+    "scale": "1",
+    "related_multi_packs": [
+      "brown-wave-1.json",
+      "brown-wave-2.json",
+      "brown-wave-3.json",
+      "brown-wave-4.json"
+    ],
+    "smartupdate": "$TexturePacker:SmartUpdate:957068f235b2ed23f99f99a9dff7afb2:dfa8757c912b82e4516183f0f6c4ca38:d5e06690e1bfc804093f2631fe81f373$"
+  }
+}

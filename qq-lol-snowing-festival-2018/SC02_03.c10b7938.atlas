@@ -1,0 +1,370 @@
+
+SC02_03.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SC02_03/BG
+  rotate: false
+  xy: 2, 543
+  size: 751, 1501
+  orig: 751, 1501
+  offset: 0, 0
+  index: -1
+SC02_03/Curtain
+  rotate: true
+  xy: 2, 174
+  size: 150, 451
+  orig: 150, 451
+  offset: 0, 0
+  index: -1
+SC02_03/Dongdong
+  rotate: false
+  xy: 1308, 1485
+  size: 214, 193
+  orig: 214, 193
+  offset: 0, 0
+  index: -1
+SC02_03/Door_Closed_1
+  rotate: true
+  xy: 936, 880
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+SC02_03/Door_Closed_2
+  rotate: false
+  xy: 602, 145
+  size: 29, 26
+  orig: 29, 26
+  offset: 0, 0
+  index: -1
+SC02_03/Door_Closed_3
+  rotate: true
+  xy: 733, 508
+  size: 33, 19
+  orig: 33, 19
+  offset: 0, 0
+  index: -1
+SC02_03/Door_Closed_4
+  rotate: false
+  xy: 979, 1400
+  size: 29, 20
+  orig: 29, 20
+  offset: 0, 0
+  index: -1
+SC02_03/Door_Closed_5
+  rotate: true
+  xy: 224, 5
+  size: 167, 194
+  orig: 167, 194
+  offset: 0, 0
+  index: -1
+SC02_03/Door_Closed_6
+  rotate: false
+  xy: 755, 909
+  size: 204, 250
+  orig: 204, 250
+  offset: 0, 0
+  index: -1
+SC02_03/Door_Closed_7
+  rotate: true
+  xy: 1065, 1495
+  size: 183, 241
+  orig: 183, 241
+  offset: 0, 0
+  index: -1
+SC02_03/Door_Closed_8
+  rotate: false
+  xy: 755, 1490
+  size: 308, 554
+  orig: 308, 554
+  offset: 0, 0
+  index: -1
+SC02_03/Door_Opened
+  rotate: true
+  xy: 2, 326
+  size: 215, 729
+  orig: 215, 729
+  offset: 0, 0
+  index: -1
+SC02_03/Light_1
+  rotate: true
+  xy: 755, 668
+  size: 239, 179
+  orig: 239, 179
+  offset: 0, 0
+  index: -1
+SC02_03/Light_2
+  rotate: true
+  xy: 455, 173
+  size: 151, 233
+  orig: 151, 233
+  offset: 0, 0
+  index: -1
+SC02_03/Ring_1
+  rotate: false
+  xy: 979, 1422
+  size: 82, 66
+  orig: 82, 66
+  offset: 0, 0
+  index: -1
+SC02_03/Ring_2
+  rotate: false
+  xy: 755, 598
+  size: 141, 68
+  orig: 141, 68
+  offset: 0, 0
+  index: -1
+SC02_03/Ring_3
+  rotate: false
+  xy: 420, 3
+  size: 180, 168
+  orig: 180, 168
+  offset: 0, 0
+  index: -1
+SC02_03/Snow/Snow_Group_1/Snow1_1
+  rotate: false
+  xy: 690, 266
+  size: 22, 25
+  orig: 22, 25
+  offset: 0, 0
+  index: -1
+SC02_03/Snow/Snow_Group_1/Snow1_10
+  rotate: false
+  xy: 936, 846
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+SC02_03/Snow/Snow_Group_1/Snow1_11
+  rotate: false
+  xy: 733, 489
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+SC02_03/Snow/Snow_Group_1/Snow1_12
+  rotate: false
+  xy: 1010, 1390
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+SC02_03/Snow/Snow_Group_1/Snow1_13
+  rotate: false
+  xy: 690, 248
+  size: 13, 16
+  orig: 13, 16
+  offset: 0, 0
+  index: -1
+SC02_03/Snow/Snow_Group_1/Snow1_14
+  rotate: false
+  xy: 1581, 1684
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+SC02_03/Snow/Snow_Group_1/Snow1_15
+  rotate: false
+  xy: 898, 606
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+SC02_03/Snow/Snow_Group_1/Snow1_16
+  rotate: false
+  xy: 1065, 1680
+  size: 495, 364
+  orig: 495, 364
+  offset: 0, 0
+  index: -1
+SC02_03/Snow/Snow_Group_1/Snow1_2
+  rotate: false
+  xy: 1562, 1682
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+SC02_03/Snow/Snow_Group_1/Snow1_3
+  rotate: false
+  xy: 961, 1142
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+SC02_03/Snow/Snow_Group_1/Snow1_4
+  rotate: false
+  xy: 755, 551
+  size: 17, 15
+  orig: 17, 15
+  offset: 0, 0
+  index: -1
+SC02_03/Snow/Snow_Group_1/Snow1_5
+  rotate: false
+  xy: 755, 568
+  size: 27, 28
+  orig: 27, 28
+  offset: 0, 0
+  index: -1
+SC02_03/Snow/Snow_Group_1/Snow1_6
+  rotate: true
+  xy: 995, 1384
+  size: 14, 13
+  orig: 14, 13
+  offset: 0, 0
+  index: -1
+SC02_03/Snow/Snow_Group_1/Snow1_7
+  rotate: false
+  xy: 979, 1382
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+SC02_03/Snow/Snow_Group_1/Snow1_8
+  rotate: false
+  xy: 733, 473
+  size: 14, 14
+  orig: 14, 14
+  offset: 0, 0
+  index: -1
+SC02_03/Snow/Snow_Group_1/Snow1_9
+  rotate: false
+  xy: 1010, 1405
+  size: 15, 15
+  orig: 15, 15
+  offset: 0, 0
+  index: -1
+SC02_03/Snow/Snow_Group_2/Snow2_1
+  rotate: false
+  xy: 1524, 1645
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+SC02_03/Snow/Snow_Group_2/Snow2_10
+  rotate: false
+  xy: 602, 109
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+SC02_03/Snow/Snow_Group_2/Snow2_11
+  rotate: false
+  xy: 898, 641
+  size: 25, 25
+  orig: 25, 25
+  offset: 0, 0
+  index: -1
+SC02_03/Snow/Snow_Group_2/Snow2_12
+  rotate: false
+  xy: 1027, 1407
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+SC02_03/Snow/Snow_Group_2/Snow2_13
+  rotate: false
+  xy: 898, 622
+  size: 14, 17
+  orig: 14, 17
+  offset: 0, 0
+  index: -1
+SC02_03/Snow/Snow_Group_2/Snow2_14
+  rotate: false
+  xy: 652, 156
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+SC02_03/Snow/Snow_Group_2/Snow2_15
+  rotate: false
+  xy: 801, 581
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+SC02_03/Snow/Snow_Group_2/Snow2_16
+  rotate: false
+  xy: 1524, 1619
+  size: 24, 24
+  orig: 24, 24
+  offset: 0, 0
+  index: -1
+SC02_03/Snow/Snow_Group_2/Snow2_17
+  rotate: true
+  xy: 1562, 1701
+  size: 343, 479
+  orig: 343, 479
+  offset: 0, 0
+  index: -1
+SC02_03/Snow/Snow_Group_2/Snow2_2
+  rotate: false
+  xy: 784, 579
+  size: 15, 17
+  orig: 15, 17
+  offset: 0, 0
+  index: -1
+SC02_03/Snow/Snow_Group_2/Snow2_3
+  rotate: false
+  xy: 602, 126
+  size: 16, 17
+  orig: 16, 17
+  offset: 0, 0
+  index: -1
+SC02_03/Snow/Snow_Group_2/Snow2_4
+  rotate: false
+  xy: 633, 155
+  size: 17, 16
+  orig: 17, 16
+  offset: 0, 0
+  index: -1
+SC02_03/Snow/Snow_Group_2/Snow2_5
+  rotate: false
+  xy: 936, 863
+  size: 16, 15
+  orig: 16, 15
+  offset: 0, 0
+  index: -1
+SC02_03/Snow/Snow_Group_2/Snow2_6
+  rotate: false
+  xy: 690, 293
+  size: 30, 31
+  orig: 30, 31
+  offset: 0, 0
+  index: -1
+SC02_03/Snow/Snow_Group_2/Snow2_7
+  rotate: false
+  xy: 1524, 1601
+  size: 14, 16
+  orig: 14, 16
+  offset: 0, 0
+  index: -1
+SC02_03/Snow/Snow_Group_2/Snow2_8
+  rotate: false
+  xy: 979, 1365
+  size: 13, 15
+  orig: 13, 15
+  offset: 0, 0
+  index: -1
+SC02_03/Snow/Snow_Group_2/Snow2_9
+  rotate: false
+  xy: 961, 1125
+  size: 14, 15
+  orig: 14, 15
+  offset: 0, 0
+  index: -1
+SC02_03/Tree_1
+  rotate: false
+  xy: 2, 2
+  size: 220, 170
+  orig: 220, 170
+  offset: 0, 0
+  index: -1
+SC02_03/Tree_2
+  rotate: false
+  xy: 755, 1161
+  size: 222, 327
+  orig: 222, 327
+  offset: 0, 0
+  index: -1

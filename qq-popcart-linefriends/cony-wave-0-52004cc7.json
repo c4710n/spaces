@@ -1,0 +1,152 @@
+{
+  "frames": {
+    "cony-wave-01.png": {
+      "frame": { "x": 680, "y": 1, "w": 378, "h": 679 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 186, "y": 381, "w": 378, "h": 679 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-wave-02.png": {
+      "frame": { "x": 1361, "y": 1, "w": 378, "h": 679 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 186, "y": 381, "w": 378, "h": 679 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-wave-05.png": {
+      "frame": { "x": 1, "y": 381, "w": 379, "h": 679 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 188, "y": 381, "w": 379, "h": 679 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-wave-06.png": {
+      "frame": { "x": 682, "y": 381, "w": 379, "h": 680 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 194, "y": 380, "w": 379, "h": 680 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-wave-09.png": {
+      "frame": { "x": 1364, "y": 381, "w": 382, "h": 677 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 204, "y": 382, "w": 382, "h": 677 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-wave-15.png": {
+      "frame": { "x": 676, "y": 1186, "w": 427, "h": 674 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 176, "y": 385, "w": 427, "h": 674 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-wave-17.png": {
+      "frame": { "x": 1326, "y": 765, "w": 419, "h": 671 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 184, "y": 388, "w": 419, "h": 671 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-wave-23.png": {
+      "frame": { "x": 1, "y": 762, "w": 418, "h": 660 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 173, "y": 399, "w": 418, "h": 660 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-wave-40.png": {
+      "frame": { "x": 1352, "y": 1186, "w": 427, "h": 673 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 169, "y": 386, "w": 427, "h": 673 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-wave-50.png": {
+      "frame": { "x": 663, "y": 762, "w": 418, "h": 661 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 173, "y": 398, "w": 418, "h": 661 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-wave-53.png": {
+      "frame": { "x": 1, "y": 1182, "w": 426, "h": 673 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 169, "y": 386, "w": 426, "h": 673 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-wave-63.png": {
+      "frame": { "x": 1364, "y": 381, "w": 382, "h": 677 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 204, "y": 380, "w": 382, "h": 677 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-wave-64.png": {
+      "frame": { "x": 1, "y": 1, "w": 377, "h": 677 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 206, "y": 380, "w": 377, "h": 677 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-wave-66.png": {
+      "frame": { "x": 682, "y": 381, "w": 379, "h": 680 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 194, "y": 378, "w": 379, "h": 680 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-wave-68.png": {
+      "frame": { "x": 1, "y": 381, "w": 379, "h": 679 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 188, "y": 379, "w": 379, "h": 679 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-wave-71.png": {
+      "frame": { "x": 1361, "y": 1, "w": 378, "h": 679 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 186, "y": 379, "w": 378, "h": 679 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    }
+  },
+  "animations": {
+    "cony-wave": [
+      "cony-wave-01.png",
+      "cony-wave-02.png",
+      "cony-wave-05.png",
+      "cony-wave-06.png",
+      "cony-wave-09.png",
+      "cony-wave-15.png",
+      "cony-wave-17.png",
+      "cony-wave-23.png",
+      "cony-wave-40.png",
+      "cony-wave-50.png",
+      "cony-wave-53.png",
+      "cony-wave-63.png",
+      "cony-wave-64.png",
+      "cony-wave-66.png",
+      "cony-wave-68.png",
+      "cony-wave-71.png"
+    ]
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "cony-wave-0.png",
+    "format": "RGBA8888",
+    "size": { "w": 2042, "h": 1614 },
+    "scale": "1",
+    "related_multi_packs": [
+      "cony-wave-1.json",
+      "cony-wave-2.json",
+      "cony-wave-3.json",
+      "cony-wave-4.json",
+      "cony-wave-5.json"
+    ],
+    "smartupdate": "$TexturePacker:SmartUpdate:ad35b49708336900dd0106871330da08:ee8879e496972c2de9f30758312ff273:f205eb57e915d5ff7bd714545c8f0262$"
+  }
+}

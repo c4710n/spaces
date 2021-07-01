@@ -1,0 +1,135 @@
+{
+  "frames": {
+    "brown-shy-01.png": {
+      "frame": { "x": 1, "y": 574, "w": 380, "h": 570 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 185, "y": 491, "w": 380, "h": 570 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-shy-02.png": {
+      "frame": { "x": 383, "y": 1, "w": 380, "h": 570 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 185, "y": 491, "w": 380, "h": 570 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-shy-28.png": {
+      "frame": { "x": 1337, "y": 769, "w": 381, "h": 566 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 192, "y": 497, "w": 381, "h": 566 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-shy-29.png": {
+      "frame": { "x": 385, "y": 1145, "w": 382, "h": 566 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 191, "y": 497, "w": 382, "h": 566 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-shy-34.png": {
+      "frame": { "x": 769, "y": 1149, "w": 381, "h": 565 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 190, "y": 498, "w": 381, "h": 565 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-shy-35.png": {
+      "frame": { "x": 1336, "y": 1152, "w": 381, "h": 565 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 190, "y": 498, "w": 381, "h": 565 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-shy-38.png": {
+      "frame": { "x": 1, "y": 1146, "w": 382, "h": 565 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 190, "y": 498, "w": 382, "h": 565 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-shy-39.png": {
+      "frame": { "x": 1341, "y": 1, "w": 382, "h": 565 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 190, "y": 498, "w": 382, "h": 565 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-shy-40.png": {
+      "frame": { "x": 1341, "y": 385, "w": 382, "h": 565 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 190, "y": 498, "w": 382, "h": 565 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-shy-41.png": {
+      "frame": { "x": 769, "y": 765, "w": 382, "h": 566 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 190, "y": 497, "w": 382, "h": 566 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-shy-55.png": {
+      "frame": { "x": 383, "y": 573, "w": 380, "h": 570 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 185, "y": 491, "w": 380, "h": 570 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-shy-56.png": {
+      "frame": { "x": 769, "y": 1, "w": 380, "h": 570 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 185, "y": 491, "w": 380, "h": 570 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-shy-57.png": {
+      "frame": { "x": 769, "y": 383, "w": 380, "h": 570 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 185, "y": 491, "w": 380, "h": 570 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-shy-61.png": {
+      "frame": { "x": 1, "y": 1, "w": 380, "h": 571 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 185, "y": 490, "w": 380, "h": 571 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    }
+  },
+  "animations": {
+    "brown-shy": [
+      "brown-shy-01.png",
+      "brown-shy-02.png",
+      "brown-shy-28.png",
+      "brown-shy-29.png",
+      "brown-shy-34.png",
+      "brown-shy-35.png",
+      "brown-shy-38.png",
+      "brown-shy-39.png",
+      "brown-shy-40.png",
+      "brown-shy-41.png",
+      "brown-shy-55.png",
+      "brown-shy-56.png",
+      "brown-shy-57.png",
+      "brown-shy-61.png"
+    ]
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "brown-shy-3.png",
+    "format": "RGBA8888",
+    "size": { "w": 1907, "h": 1712 },
+    "scale": "1",
+    "related_multi_packs": [
+      "brown-shy-0.json",
+      "brown-shy-1.json",
+      "brown-shy-2.json",
+      "brown-shy-4.json"
+    ],
+    "smartupdate": "$TexturePacker:SmartUpdate:a8b06bb057db3a7eb552c746a914cd79:beb2f320a588c35ac1d8d81b408904f1:61ff071003bce0ba648762106bd9ab2f$"
+  }
+}

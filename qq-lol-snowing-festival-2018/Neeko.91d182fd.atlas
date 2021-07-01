@@ -1,0 +1,251 @@
+
+Neeko.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Freeze/AKL/Ice_Light
+  rotate: false
+  xy: 2, 378
+  size: 599, 642
+  orig: 599, 642
+  offset: 0, 0
+  index: -1
+Freeze/Neeko/Body
+  rotate: false
+  xy: 1753, 572
+  size: 259, 136
+  orig: 259, 136
+  offset: 0, 0
+  index: -1
+Freeze/Neeko/Dress
+  rotate: false
+  xy: 1438, 444
+  size: 181, 99
+  orig: 181, 99
+  offset: 0, 0
+  index: -1
+Freeze/Neeko/Head
+  rotate: false
+  xy: 2, 37
+  size: 428, 339
+  orig: 428, 339
+  offset: 0, 0
+  index: -1
+Freeze/Neeko/Ice
+  rotate: false
+  xy: 1256, 545
+  size: 495, 475
+  orig: 495, 475
+  offset: 0, 0
+  index: -1
+Freeze/Neeko/Ice_Base
+  rotate: false
+  xy: 603, 32
+  size: 492, 470
+  orig: 492, 470
+  offset: 0, 0
+  index: -1
+Freeze/Neeko/L_Eye
+  rotate: false
+  xy: 1549, 277
+  size: 71, 59
+  orig: 71, 59
+  offset: 0, 0
+  index: -1
+Freeze/Neeko/L_Eye_Brow
+  rotate: false
+  xy: 2005, 1004
+  size: 20, 16
+  orig: 20, 16
+  offset: 0, 0
+  index: -1
+Freeze/Neeko/L_Leg
+  rotate: true
+  xy: 1549, 338
+  size: 104, 84
+  orig: 104, 84
+  offset: 0, 0
+  index: -1
+Freeze/Neeko/Mouth
+  rotate: false
+  xy: 2, 2
+  size: 37, 33
+  orig: 37, 33
+  offset: 0, 0
+  index: -1
+Freeze/Neeko/R_Eye
+  rotate: false
+  xy: 1635, 386
+  size: 65, 65
+  orig: 65, 65
+  offset: 0, 0
+  index: -1
+Freeze/Neeko/R_Eye_Brow
+  rotate: true
+  xy: 1525, 126
+  size: 18, 16
+  orig: 18, 16
+  offset: 0, 0
+  index: -1
+Freeze/Neeko/R_Leg
+  rotate: true
+  xy: 1621, 453
+  size: 90, 122
+  orig: 90, 122
+  offset: 0, 0
+  index: -1
+Freeze/Neeko/Symbol_Line
+  rotate: false
+  xy: 603, 504
+  size: 651, 516
+  orig: 651, 516
+  offset: 0, 0
+  index: -1
+Freeze/Neeko/Symbol_Mark
+  rotate: false
+  xy: 1438, 271
+  size: 109, 171
+  orig: 109, 171
+  offset: 0, 0
+  index: -1
+Freeze/Neeko/Symbol_Pong
+  rotate: true
+  xy: 1753, 710
+  size: 310, 250
+  orig: 310, 250
+  offset: 0, 0
+  index: -1
+Freeze/Neeko/Tail
+  rotate: true
+  xy: 432, 98
+  size: 278, 166
+  orig: 278, 166
+  offset: 0, 0
+  index: -1
+Heat/Neeko/Head
+  rotate: true
+  xy: 1097, 74
+  size: 428, 339
+  orig: 428, 339
+  offset: 0, 0
+  index: -1
+Heat/Neeko/Heat
+  rotate: true
+  xy: 584, 61
+  size: 35, 17
+  orig: 35, 17
+  offset: 0, 0
+  index: -1
+Heat/Neeko/L_Eye
+  rotate: false
+  xy: 511, 37
+  size: 71, 59
+  orig: 71, 59
+  offset: 0, 0
+  index: -1
+Melt/Neeko/L_Eye
+  rotate: false
+  xy: 511, 37
+  size: 71, 59
+  orig: 71, 59
+  offset: 0, 0
+  index: -1
+Normal/Neeko/L_Eye
+  rotate: false
+  xy: 511, 37
+  size: 71, 59
+  orig: 71, 59
+  offset: 0, 0
+  index: -1
+Heat/Neeko/Mouth
+  rotate: false
+  xy: 1097, 52
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+Melt/Neeko/Mouth
+  rotate: false
+  xy: 1097, 52
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+Normal/Neeko/Mouth
+  rotate: false
+  xy: 1097, 52
+  size: 31, 20
+  orig: 31, 20
+  offset: 0, 0
+  index: -1
+Heat/Neeko/R_Eye
+  rotate: false
+  xy: 1635, 322
+  size: 65, 62
+  orig: 65, 62
+  offset: 0, 0
+  index: -1
+Melt/Neeko/R_Eye
+  rotate: false
+  xy: 1635, 322
+  size: 65, 62
+  orig: 65, 62
+  offset: 0, 0
+  index: -1
+Normal/Neeko/R_Eye
+  rotate: false
+  xy: 1635, 322
+  size: 65, 62
+  orig: 65, 62
+  offset: 0, 0
+  index: -1
+Heat/Neeko/Sweat_1
+  rotate: true
+  xy: 2027, 1006
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+Heat/Neeko/Sweat_2
+  rotate: false
+  xy: 1256, 521
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+Heat/Neeko/Sweat_3
+  rotate: true
+  xy: 2027, 990
+  size: 14, 19
+  orig: 14, 19
+  offset: 0, 0
+  index: -1
+Heat/Neeko/Sweat_4
+  rotate: false
+  xy: 1753, 547
+  size: 15, 23
+  orig: 15, 23
+  offset: 0, 0
+  index: -1
+Melt/Neeko/Melt_Ice_1
+  rotate: true
+  xy: 1438, 146
+  size: 123, 104
+  orig: 123, 104
+  offset: 0, 0
+  index: -1
+Melt/Neeko/Melt_Ice_2
+  rotate: false
+  xy: 1438, 82
+  size: 85, 62
+  orig: 85, 62
+  offset: 0, 0
+  index: -1
+Melt/Neeko/Melt_Ice_3
+  rotate: true
+  xy: 432, 39
+  size: 57, 77
+  orig: 57, 77
+  offset: 0, 0
+  index: -1

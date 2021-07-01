@@ -1,0 +1,25 @@
+{
+  "skeleton": {
+    "hash": "ZhXhWnsAsEKOUkeZu439mz5+tbI",
+    "spine": "3.7.68-beta",
+    "width": 426,
+    "height": 648,
+    "images": "./images/",
+    "audio": "./json/"
+  },
+  "bones": [
+    { "name": "root" },
+    { "name": "Guests", "parent": "root", "x": 16.19, "y": 419.06 }
+  ],
+  "slots": [
+    { "name": "SC05/G_01", "bone": "Guests", "attachment": "SC05/G_01" }
+  ],
+  "skins": {
+    "default": {
+      "SC05/G_01": {
+        "SC05/G_01": { "x": 521.81, "y": -242.06, "width": 426, "height": 648 }
+      }
+    }
+  },
+  "animations": { "Loop": {} }
+}

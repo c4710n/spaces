@@ -1,0 +1,272 @@
+
+MD.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Freeze/MD/Body
+  rotate: false
+  xy: 655, 978
+  size: 278, 457
+  orig: 278, 457
+  offset: 0, 0
+  index: -1
+Freeze/MD/Half_Ice_1
+  rotate: true
+  xy: 1356, 1678
+  size: 92, 138
+  orig: 92, 138
+  offset: 0, 0
+  index: -1
+Freeze/MD/Half_Ice_2
+  rotate: false
+  xy: 1257, 1587
+  size: 59, 85
+  orig: 59, 85
+  offset: 0, 0
+  index: -1
+Freeze/MD/Half_Ice_3
+  rotate: false
+  xy: 935, 1089
+  size: 60, 112
+  orig: 60, 112
+  offset: 0, 0
+  index: -1
+Freeze/MD/Head
+  rotate: false
+  xy: 459, 652
+  size: 226, 287
+  orig: 226, 287
+  offset: 0, 0
+  index: -1
+Freeze/MD/Ice
+  rotate: false
+  xy: 655, 1437
+  size: 460, 605
+  orig: 460, 605
+  offset: 0, 0
+  index: -1
+Freeze/MD/Ice_Base
+  rotate: false
+  xy: 2, 339
+  size: 455, 600
+  orig: 455, 600
+  offset: 0, 0
+  index: -1
+Freeze/MD/Ice_Light
+  rotate: false
+  xy: 2, 1459
+  size: 651, 583
+  orig: 651, 583
+  offset: 0, 0
+  index: -1
+Freeze/MD/L_Arm
+  rotate: false
+  xy: 935, 1203
+  size: 145, 232
+  orig: 145, 232
+  offset: 0, 0
+  index: -1
+Freeze/MD/L_Eye
+  rotate: false
+  xy: 128, 59
+  size: 26, 26
+  orig: 26, 26
+  offset: 0, 0
+  index: -1
+Freeze/MD/L_Eye_Brow
+  rotate: false
+  xy: 1646, 1772
+  size: 70, 37
+  orig: 70, 37
+  offset: 0, 0
+  index: -1
+Freeze/MD/L_Hand
+  rotate: false
+  xy: 1117, 1674
+  size: 237, 368
+  orig: 237, 368
+  offset: 0, 0
+  index: -1
+Freeze/MD/Legs
+  rotate: false
+  xy: 314, 151
+  size: 143, 186
+  orig: 143, 186
+  offset: 0, 0
+  index: -1
+Freeze/MD/Mouth_1
+  rotate: false
+  xy: 699, 964
+  size: 15, 12
+  orig: 15, 12
+  offset: 0, 0
+  index: -1
+Freeze/MD/Mouth_2
+  rotate: false
+  xy: 1937, 1818
+  size: 63, 51
+  orig: 63, 51
+  offset: 0, 0
+  index: -1
+Freeze/MD/Mouth_3
+  rotate: true
+  xy: 687, 915
+  size: 24, 9
+  orig: 24, 9
+  offset: 0, 0
+  index: -1
+Freeze/MD/R_Arm_01
+  rotate: false
+  xy: 459, 479
+  size: 181, 171
+  orig: 181, 171
+  offset: 0, 0
+  index: -1
+Freeze/MD/R_Arm_02
+  rotate: false
+  xy: 1117, 1455
+  size: 138, 217
+  orig: 138, 217
+  offset: 0, 0
+  index: -1
+Freeze/MD/R_Eye
+  rotate: false
+  xy: 1082, 1402
+  size: 23, 33
+  orig: 23, 33
+  offset: 0, 0
+  index: -1
+Freeze/MD/R_Eye_Brow
+  rotate: true
+  xy: 655, 941
+  size: 35, 42
+  orig: 35, 42
+  offset: 0, 0
+  index: -1
+Freeze/MD/R_Hand
+  rotate: true
+  xy: 2, 2
+  size: 83, 124
+  orig: 83, 124
+  offset: 0, 0
+  index: -1
+Freeze/MD/Scarf
+  rotate: false
+  xy: 1356, 1772
+  size: 288, 270
+  orig: 288, 270
+  offset: 0, 0
+  index: -1
+Freeze/MD/Symbol_Line
+  rotate: false
+  xy: 2, 941
+  size: 651, 516
+  orig: 651, 516
+  offset: 0, 0
+  index: -1
+Freeze/MD/Symbol_Mark
+  rotate: false
+  xy: 1937, 1871
+  size: 109, 171
+  orig: 109, 171
+  offset: 0, 0
+  index: -1
+Freeze/MD/Symbol_Pong
+  rotate: false
+  xy: 2, 87
+  size: 310, 250
+  orig: 310, 250
+  offset: 0, 0
+  index: -1
+Heat/MD/Head
+  rotate: true
+  xy: 1646, 1811
+  size: 231, 289
+  orig: 231, 289
+  offset: 0, 0
+  index: -1
+Heat/MD/L_Eye
+  rotate: false
+  xy: 314, 115
+  size: 39, 34
+  orig: 39, 34
+  offset: 0, 0
+  index: -1
+Heat/MD/R_Eye
+  rotate: false
+  xy: 459, 438
+  size: 39, 39
+  orig: 39, 39
+  offset: 0, 0
+  index: -1
+Heat/MD/Sweat_1
+  rotate: false
+  xy: 2002, 1845
+  size: 14, 24
+  orig: 14, 24
+  offset: 0, 0
+  index: -1
+Heat/MD/Sweat_2
+  rotate: false
+  xy: 935, 1057
+  size: 15, 30
+  orig: 15, 30
+  offset: 0, 0
+  index: -1
+Heat/MD/Sweat_3
+  rotate: true
+  xy: 1117, 1437
+  size: 16, 30
+  orig: 16, 30
+  offset: 0, 0
+  index: -1
+Heat/MD/Sweat_4
+  rotate: false
+  xy: 997, 1178
+  size: 21, 23
+  orig: 21, 23
+  offset: 0, 0
+  index: -1
+Heat/MD/Sweat_5
+  rotate: false
+  xy: 1318, 1646
+  size: 14, 26
+  orig: 14, 26
+  offset: 0, 0
+  index: -1
+Heat/MD/Sweat_6
+  rotate: false
+  xy: 1257, 1558
+  size: 15, 27
+  orig: 15, 27
+  offset: 0, 0
+  index: -1
+Melt/MD/L_Eye
+  rotate: false
+  xy: 642, 615
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+Normal/MD/L_Eye
+  rotate: false
+  xy: 642, 615
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+Melt/MD/R_Eye
+  rotate: false
+  xy: 1496, 1734
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+Normal/MD/R_Eye
+  rotate: false
+  xy: 1496, 1734
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1

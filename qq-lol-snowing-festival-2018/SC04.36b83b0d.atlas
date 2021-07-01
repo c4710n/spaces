@@ -1,0 +1,279 @@
+
+SC04.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SC04/BG_1
+  rotate: false
+  xy: 1222, 1387
+  size: 171, 449
+  orig: 171, 449
+  offset: 0, 0
+  index: -1
+SC04/BG_2
+  rotate: true
+  xy: 1332, 972
+  size: 59, 29
+  orig: 59, 29
+  offset: 0, 0
+  index: -1
+SC04/BG_3
+  rotate: false
+  xy: 1222, 691
+  size: 154, 142
+  orig: 154, 142
+  offset: 0, 0
+  index: -1
+SC04/BG_4
+  rotate: false
+  xy: 2, 538
+  size: 751, 1501
+  orig: 751, 1501
+  offset: 0, 0
+  index: -1
+SC04/Dog_1
+  rotate: true
+  xy: 2011, 1887
+  size: 41, 35
+  orig: 41, 35
+  offset: 0, 0
+  index: -1
+SC04/Dog_2
+  rotate: false
+  xy: 1606, 1567
+  size: 120, 116
+  orig: 120, 116
+  offset: 0, 0
+  index: -1
+SC04/Dog_3
+  rotate: false
+  xy: 736, 76
+  size: 69, 43
+  orig: 69, 43
+  offset: 0, 0
+  index: -1
+SC04/Dog_4
+  rotate: false
+  xy: 1395, 1582
+  size: 209, 254
+  orig: 209, 254
+  offset: 0, 0
+  index: -1
+SC04/Dog_5
+  rotate: false
+  xy: 1690, 1876
+  size: 257, 163
+  orig: 257, 163
+  offset: 0, 0
+  index: -1
+SC04/Dog_6
+  rotate: false
+  xy: 1712, 1737
+  size: 121, 137
+  orig: 121, 137
+  offset: 0, 0
+  index: -1
+SC04/Dog_7
+  rotate: false
+  xy: 2, 2
+  size: 181, 67
+  orig: 181, 67
+  offset: 0, 0
+  index: -1
+SC04/Eye_Light_1
+  rotate: true
+  xy: 1395, 1386
+  size: 194, 195
+  orig: 194, 195
+  offset: 0, 0
+  index: -1
+SC04/Eye_Light_2
+  rotate: false
+  xy: 1949, 1873
+  size: 60, 55
+  orig: 60, 55
+  offset: 0, 0
+  index: -1
+SC04/Eye_Light_3
+  rotate: false
+  xy: 1222, 1205
+  size: 162, 180
+  orig: 162, 180
+  offset: 0, 0
+  index: -1
+SC04/Light_1
+  rotate: false
+  xy: 1153, 534
+  size: 31, 33
+  orig: 31, 33
+  offset: 0, 0
+  index: -1
+SC04/Light_2
+  rotate: false
+  xy: 1124, 477
+  size: 27, 30
+  orig: 27, 30
+  offset: 0, 0
+  index: -1
+SC04/Light_3
+  rotate: false
+  xy: 807, 83
+  size: 39, 36
+  orig: 39, 36
+  offset: 0, 0
+  index: -1
+SC04/Light_4
+  rotate: false
+  xy: 1712, 1698
+  size: 43, 37
+  orig: 43, 37
+  offset: 0, 0
+  index: -1
+SC04/Light_5
+  rotate: false
+  xy: 275, 31
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+SC04/Light_6
+  rotate: false
+  xy: 1757, 1703
+  size: 32, 32
+  orig: 32, 32
+  offset: 0, 0
+  index: -1
+SC04/Light_7
+  rotate: false
+  xy: 1332, 940
+  size: 28, 30
+  orig: 28, 30
+  offset: 0, 0
+  index: -1
+SC04/Light_Glow_1
+  rotate: true
+  xy: 1386, 1206
+  size: 178, 188
+  orig: 178, 188
+  offset: 0, 0
+  index: -1
+SC04/Light_Glow_2
+  rotate: true
+  xy: 957, 509
+  size: 190, 194
+  orig: 190, 194
+  offset: 0, 0
+  index: -1
+SC04/Light_Glow_3
+  rotate: false
+  xy: 736, 121
+  size: 186, 193
+  orig: 186, 193
+  offset: 0, 0
+  index: -1
+SC04/Light_Glow_4
+  rotate: false
+  xy: 736, 316
+  size: 191, 194
+  orig: 191, 194
+  offset: 0, 0
+  index: -1
+SC04/Light_Glow_5
+  rotate: true
+  xy: 755, 512
+  size: 187, 200
+  orig: 187, 200
+  offset: 0, 0
+  index: -1
+SC04/Light_Glow_6
+  rotate: true
+  xy: 929, 326
+  size: 181, 193
+  orig: 181, 193
+  offset: 0, 0
+  index: -1
+SC04/Light_Glow_7
+  rotate: false
+  xy: 1222, 835
+  size: 108, 196
+  orig: 108, 196
+  offset: 0, 0
+  index: -1
+SC04/Line
+  rotate: false
+  xy: 1222, 1838
+  size: 466, 201
+  orig: 466, 201
+  offset: 0, 0
+  index: -1
+SC04/Quilt_01
+  rotate: true
+  xy: 2, 71
+  size: 465, 732
+  orig: 465, 732
+  offset: 0, 0
+  index: -1
+SC04/Quilt_02
+  rotate: false
+  xy: 755, 701
+  size: 465, 653
+  orig: 465, 653
+  offset: 0, 0
+  index: -1
+SC04/Quilt_03
+  rotate: false
+  xy: 755, 1356
+  size: 465, 683
+  orig: 465, 683
+  offset: 0, 0
+  index: -1
+SC04/Socks_1
+  rotate: true
+  xy: 1949, 1930
+  size: 109, 94
+  orig: 109, 94
+  offset: 0, 0
+  index: -1
+SC04/Socks_2
+  rotate: false
+  xy: 1153, 629
+  size: 52, 70
+  orig: 52, 70
+  offset: 0, 0
+  index: -1
+SC04/Socks_3
+  rotate: false
+  xy: 185, 20
+  size: 88, 49
+  orig: 88, 49
+  offset: 0, 0
+  index: -1
+SC04/Socks_4
+  rotate: true
+  xy: 1153, 569
+  size: 58, 54
+  orig: 58, 54
+  offset: 0, 0
+  index: -1
+SC04/Socks_5
+  rotate: true
+  xy: 1835, 1738
+  size: 136, 99
+  orig: 136, 99
+  offset: 0, 0
+  index: -1
+SC04/Socks_6
+  rotate: false
+  xy: 1222, 1033
+  size: 142, 170
+  orig: 142, 170
+  offset: 0, 0
+  index: -1
+SC04/Socks_7
+  rotate: false
+  xy: 1606, 1685
+  size: 104, 151
+  orig: 104, 151
+  offset: 0, 0
+  index: -1

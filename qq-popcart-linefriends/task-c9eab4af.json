@@ -1,0 +1,86 @@
+{
+  "frames": {
+    "task-box": {
+      "frame": { "x": 1, "y": 1, "w": 750, "h": 763 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 750, "h": 763 },
+      "sourceSize": { "w": 750, "h": 763 }
+    },
+    "task-button-done": {
+      "frame": { "x": 1, "y": 766, "w": 150, "h": 64 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 64 },
+      "sourceSize": { "w": 150, "h": 64 }
+    },
+    "task-button-feed": {
+      "frame": { "x": 1, "y": 832, "w": 150, "h": 64 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 64 },
+      "sourceSize": { "w": 150, "h": 64 }
+    },
+    "task-button-prize": {
+      "frame": { "x": 153, "y": 766, "w": 150, "h": 64 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 64 },
+      "sourceSize": { "w": 150, "h": 64 }
+    },
+    "task-button-share": {
+      "frame": { "x": 153, "y": 832, "w": 150, "h": 64 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 64 },
+      "sourceSize": { "w": 150, "h": 64 }
+    },
+    "task-button-todo": {
+      "frame": { "x": 305, "y": 766, "w": 150, "h": 64 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 150, "h": 64 },
+      "sourceSize": { "w": 150, "h": 64 }
+    },
+    "task-prize-1": {
+      "frame": { "x": 332, "y": 832, "w": 165, "h": 23 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 165, "h": 23 },
+      "sourceSize": { "w": 165, "h": 23 }
+    },
+    "task-prize-3": {
+      "frame": { "x": 457, "y": 766, "w": 145, "h": 23 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 145, "h": 23 },
+      "sourceSize": { "w": 145, "h": 23 }
+    },
+    "task-progress-bar": {
+      "frame": { "x": 305, "y": 832, "w": 29, "h": 25 },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 29, "h": 25 },
+      "sourceSize": { "w": 29, "h": 25 }
+    },
+    "task-progress": {
+      "frame": { "x": 305, "y": 863, "w": 256, "h": 25 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 256, "h": 25 },
+      "sourceSize": { "w": 256, "h": 25 }
+    }
+  },
+  "animations": {
+    "task-prize": ["task-prize-1", "task-prize-3"]
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "task.png",
+    "format": "RGBA8888",
+    "size": { "w": 752, "h": 897 },
+    "scale": "1",
+    "smartupdate": "$TexturePacker:SmartUpdate:ef13f5a5b514dd723f7626527796fb1d:59a72151dfda5d1995706a13af247fdd:6a1a71ebdf9437e51f6715709c153a28$"
+  }
+}

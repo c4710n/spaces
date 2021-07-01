@@ -1,0 +1,118 @@
+{
+  "frames": {
+    "bg-brown": {
+      "frame": { "x": 1, "y": 1, "w": 750, "h": 1500 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 750, "h": 1500 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "bg-cony": {
+      "frame": { "x": 753, "y": 1, "w": 750, "h": 1498 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 750, "h": 1498 },
+      "sourceSize": { "w": 750, "h": 1498 }
+    },
+    "button-enter-game-desc": {
+      "frame": { "x": 1442, "y": 1501, "w": 106, "h": 33 },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 106, "h": 33 },
+      "sourceSize": { "w": 106, "h": 33 }
+    },
+    "button-enter-game": {
+      "frame": { "x": 373, "y": 1503, "w": 96, "h": 95 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 96, "h": 95 },
+      "sourceSize": { "w": 96, "h": 95 }
+    },
+    "button-feed-brown": {
+      "frame": { "x": 753, "y": 1501, "w": 168, "h": 168 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 168, "h": 168 },
+      "sourceSize": { "w": 168, "h": 168 }
+    },
+    "button-feed-cony": {
+      "frame": { "x": 923, "y": 1501, "w": 168, "h": 168 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 168, "h": 168 },
+      "sourceSize": { "w": 168, "h": 168 }
+    },
+    "button-feed-desc": {
+      "frame": { "x": 1093, "y": 1501, "w": 149, "h": 45 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 149, "h": 45 },
+      "sourceSize": { "w": 149, "h": 45 }
+    },
+    "button-new-desc": {
+      "frame": { "x": 1244, "y": 1501, "w": 149, "h": 45 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 149, "h": 45 },
+      "sourceSize": { "w": 149, "h": 45 }
+    },
+    "button-new": {
+      "frame": { "x": 1, "y": 1503, "w": 122, "h": 122 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 122, "h": 122 },
+      "sourceSize": { "w": 122, "h": 122 }
+    },
+    "button-prize-deactive": {
+      "frame": { "x": 125, "y": 1503, "w": 122, "h": 122 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 122, "h": 122 },
+      "sourceSize": { "w": 122, "h": 122 }
+    },
+    "button-prize-desc": {
+      "frame": { "x": 1395, "y": 1501, "w": 149, "h": 45 },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 149, "h": 45 },
+      "sourceSize": { "w": 149, "h": 45 }
+    },
+    "button-prize": {
+      "frame": { "x": 249, "y": 1503, "w": 122, "h": 122 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 122, "h": 122 },
+      "sourceSize": { "w": 122, "h": 122 }
+    },
+    "button-rule": {
+      "frame": { "x": 1093, "y": 1630, "w": 92, "h": 37 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 37 },
+      "sourceSize": { "w": 92, "h": 37 }
+    },
+    "food-brown": {
+      "frame": { "x": 1199, "y": 1548, "w": 103, "h": 103 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 103, "h": 103 },
+      "sourceSize": { "w": 103, "h": 103 }
+    },
+    "food-cony": {
+      "frame": { "x": 1093, "y": 1548, "w": 80, "h": 104 },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 80, "h": 104 },
+      "sourceSize": { "w": 80, "h": 104 }
+    }
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "playground-guest.png",
+    "format": "RGBA8888",
+    "size": { "w": 1504, "h": 1670 },
+    "scale": "1",
+    "smartupdate": "$TexturePacker:SmartUpdate:776aef24b532e52c9d7e49d551890317:b93b1699ba94e14eb5c112c5e6a340d9:f2844410be9f8dd0d2d4eb1f2eaef47a$"
+  }
+}

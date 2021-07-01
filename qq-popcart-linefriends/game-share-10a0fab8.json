@@ -1,0 +1,55 @@
+{
+  "frames": {
+    "game-button-back.png": {
+      "frame": { "x": 144, "y": 141, "w": 178, "h": 80 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 178, "h": 80 },
+      "sourceSize": { "w": 178, "h": 80 }
+    },
+    "game-qq-circle.png": {
+      "frame": { "x": 1, "y": 1, "w": 103, "h": 141 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 103, "h": 141 },
+      "sourceSize": { "w": 103, "h": 141 }
+    },
+    "game-qq-friends.png": {
+      "frame": { "x": 1, "y": 144, "w": 103, "h": 141 },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 103, "h": 141 },
+      "sourceSize": { "w": 103, "h": 141 }
+    },
+    "game-share-txt.png": {
+      "frame": { "x": 144, "y": 223, "w": 92, "h": 30 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 92, "h": 30 },
+      "sourceSize": { "w": 92, "h": 30 }
+    },
+    "game-wx-circle.png": {
+      "frame": { "x": 106, "y": 1, "w": 104, "h": 138 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 104, "h": 138 },
+      "sourceSize": { "w": 104, "h": 138 }
+    },
+    "game-wx-friends.png": {
+      "frame": { "x": 212, "y": 1, "w": 103, "h": 138 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 103, "h": 138 },
+      "sourceSize": { "w": 103, "h": 138 }
+    }
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "game-share.png",
+    "format": "RGBA8888",
+    "size": { "w": 323, "h": 254 },
+    "scale": "1",
+    "smartupdate": "$TexturePacker:SmartUpdate:74ed61312d4085c9758853a2a623db0c:c41387a6a7d3e21c4780d27d38c9c1f0:6abaaf7493b9a40ce0538dedbb825430$"
+  }
+}

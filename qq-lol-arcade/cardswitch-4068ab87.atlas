@@ -1,0 +1,41 @@
+
+cardswitch.png
+size: 1024,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+arrow
+  rotate: true
+  xy: 2, 2
+  size: 89, 120
+  orig: 89, 120
+  offset: 0, 0
+  index: -1
+btn_again
+  rotate: true
+  xy: 846, 832
+  size: 177, 52
+  orig: 177, 52
+  offset: 0, 0
+  index: -1
+buy
+  rotate: false
+  xy: 2, 93
+  size: 269, 267
+  orig: 271, 268
+  offset: 1, 0
+  index: -1
+card
+  rotate: false
+  xy: 2, 362
+  size: 842, 647
+  orig: 868, 667
+  offset: 13, 0
+  index: -1
+save
+  rotate: false
+  xy: 273, 334
+  size: 180, 26
+  orig: 180, 26
+  offset: 0, 0
+  index: -1

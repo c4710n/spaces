@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="zh-cmn-Hans">
+  <head>
+    <meta charset="utf-8">
+    <meta
+      name="viewport"
+      content="width=device-width, initial-scale=1, shrink-to-fit=no, minimum-scale=1, maximum-scale=1, user-scalable=no"
+    >
+    <title>来跑跑寻找你的LINE FRIENDS伙伴</title>
+    <meta
+      name="description"
+      content="跑跑伙伴携手出发，你有一个LINE FRIENDS车手待领取"
+    >
+    <meta name="keywords" content="跑跑卡丁车,跑跑卡丁车2.0,跑跑卡丁车,不只是漂移,全民漂移,道具赛,竞速赛,跑跑卡丁车,世纪天成">
+    <style>
+      html,
+      body,
+      #container {
+        height: 100%;
+        width: 100%;
+      }
+
+      body {
+        position: fixed;
+        background-color: #ffffff;
+        margin: 0;
+        overflow: hidden;
+      }
+
+      .warning {
+        height: 100vh;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        font-family: monospace;
+      }
+    </style>
+    
+    <link rel="stylesheet" media="all" href="main-master-1c7aae03.css">
+    
+    <link rel="stylesheet" media="all" href="main-guest-1c7aae03.css">
+    
+  </head>
+
+  <body>
+    <div id="container"></div>
+    <div class="podium-container">
+      <div class="podium" id="bindSelect">
+        <div id="sel_channel_wrapper">
+          <select name="" id="sel_channel"></select>
+        </div>
+        <div id="sel_system_wrapper">
+          <select name="" id="sel_system"></select>
+        </div>
+        <div id="sel_area_wrapper">
+          <select name="" id="sel_area"></select>
+        </div>
+        <div id="sel_role_wrapper">
+          <select name="" id="sel_role"></select>
+        </div>
+        <div class="btn" id="btn_submit"></div>
+      </div>
+    </div>
+
+    <noscript>
+      <div class="warning">
+        <p>JavaScript support is required.</p>
+        <p>需要开启 JavaScript。</p>
+      </div>
+    </noscript>
+
+    <script type="text/javascript" src="main-master-fb497272.js"></script>
+    
+
+    
+    <script>
+      window._store.setMasterEnv('general')
+      window._share = function(link, desc, imageUrl) {
+        console.log(JSON.stringify({link, desc, imageUrl}, '', 2))
+      }
+
+      window._track = function(name, desc) { console.log(name, desc) }
+
+      window._store.setUserInfo({
+        nickname: '很长的无名氏无名氏',
+        avatar: 'https://thirdqq.qlogo.cn/g?b=sdk&k=I3fACibk8LAwdsbm0VOBnPw&s=100&t=0'
+      })
+
+      window._app.start()
+    </script>
+    
+
+    
+  </body>
+</html>

@@ -1,0 +1,150 @@
+{
+  "frames": {
+    "brown-clap-01.png": {
+      "frame": { "x": 953, "y": 382, "w": 378, "h": 569 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 186, "y": 490, "w": 378, "h": 569 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-clap-02.png": {
+      "frame": { "x": 953, "y": 762, "w": 378, "h": 569 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 186, "y": 490, "w": 378, "h": 569 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-clap-03.png": {
+      "frame": { "x": 381, "y": 1523, "w": 378, "h": 568 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 186, "y": 491, "w": 378, "h": 568 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-clap-08.png": {
+      "frame": { "x": 952, "y": 1522, "w": 379, "h": 567 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 185, "y": 492, "w": 379, "h": 567 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-clap-09.png": {
+      "frame": { "x": 381, "y": 763, "w": 378, "h": 569 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 185, "y": 490, "w": 378, "h": 569 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-clap-10.png": {
+      "frame": { "x": 381, "y": 382, "w": 379, "h": 570 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 184, "y": 489, "w": 379, "h": 570 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-clap-11.png": {
+      "frame": { "x": 955, "y": 1, "w": 379, "h": 571 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 184, "y": 488, "w": 379, "h": 571 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-clap-12.png": {
+      "frame": { "x": 1, "y": 579, "w": 378, "h": 575 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 183, "y": 484, "w": 378, "h": 575 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-clap-45.png": {
+      "frame": { "x": 1, "y": 1, "w": 378, "h": 576 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 183, "y": 483, "w": 378, "h": 576 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-clap-47.png": {
+      "frame": { "x": 1, "y": 1156, "w": 378, "h": 574 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 184, "y": 485, "w": 378, "h": 574 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-clap-48.png": {
+      "frame": { "x": 381, "y": 1, "w": 379, "h": 572 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 184, "y": 487, "w": 379, "h": 572 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-clap-49.png": {
+      "frame": { "x": 1528, "y": 1, "w": 378, "h": 571 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 185, "y": 488, "w": 378, "h": 571 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-clap-50.png": {
+      "frame": { "x": 952, "y": 1142, "w": 378, "h": 569 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 185, "y": 490, "w": 378, "h": 569 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-clap-51.png": {
+      "frame": { "x": 1524, "y": 574, "w": 379, "h": 568 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 185, "y": 491, "w": 379, "h": 568 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-clap-52.png": {
+      "frame": { "x": 1523, "y": 1144, "w": 379, "h": 567 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 185, "y": 492, "w": 379, "h": 567 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "brown-clap-64.png": {
+      "frame": { "x": 381, "y": 1143, "w": 378, "h": 569 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 186, "y": 490, "w": 378, "h": 569 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    }
+  },
+  "animations": {
+    "brown-clap": [
+      "brown-clap-01.png",
+      "brown-clap-02.png",
+      "brown-clap-03.png",
+      "brown-clap-08.png",
+      "brown-clap-09.png",
+      "brown-clap-10.png",
+      "brown-clap-11.png",
+      "brown-clap-12.png",
+      "brown-clap-45.png",
+      "brown-clap-47.png",
+      "brown-clap-48.png",
+      "brown-clap-49.png",
+      "brown-clap-50.png",
+      "brown-clap-51.png",
+      "brown-clap-52.png",
+      "brown-clap-64.png"
+    ]
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "brown-clap-2.png",
+    "format": "RGBA8888",
+    "size": { "w": 1907, "h": 1902 },
+    "scale": "1",
+    "related_multi_packs": [
+      "brown-clap-0.json",
+      "brown-clap-1.json",
+      "brown-clap-3.json"
+    ],
+    "smartupdate": "$TexturePacker:SmartUpdate:62a6015664eb5ad6ed9a3e87761214f3:43b8959960e8272f431fd7ec5e94892c:30275a68c911ab999e1fe16f0528de96$"
+  }
+}

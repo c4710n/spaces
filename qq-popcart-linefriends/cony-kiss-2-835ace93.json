@@ -1,0 +1,95 @@
+{
+  "frames": {
+    "cony-kiss-19.png": {
+      "frame": { "x": 1335, "y": 372, "w": 372, "h": 676 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 161, "y": 390, "w": 372, "h": 676 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-kiss-21.png": {
+      "frame": { "x": 670, "y": 1, "w": 369, "h": 668 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 158, "y": 390, "w": 369, "h": 668 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-kiss-22.png": {
+      "frame": { "x": 1, "y": 1, "w": 368, "h": 667 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 158, "y": 391, "w": 368, "h": 667 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-kiss-23.png": {
+      "frame": { "x": 1340, "y": 1, "w": 369, "h": 666 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 157, "y": 392, "w": 369, "h": 666 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-kiss-24.png": {
+      "frame": { "x": 1, "y": 371, "w": 369, "h": 666 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 157, "y": 392, "w": 369, "h": 666 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-kiss-37.png": {
+      "frame": { "x": 669, "y": 372, "w": 370, "h": 664 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 152, "y": 394, "w": 370, "h": 664 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-kiss-61.png": {
+      "frame": { "x": 1358, "y": 746, "w": 379, "h": 675 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 177, "y": 384, "w": 379, "h": 675 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-kiss-62.png": {
+      "frame": { "x": 1, "y": 744, "w": 378, "h": 676 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 180, "y": 383, "w": 378, "h": 676 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-kiss-64.png": {
+      "frame": { "x": 679, "y": 746, "w": 379, "h": 677 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 183, "y": 382, "w": 379, "h": 677 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    }
+  },
+  "animations": {
+    "cony-kiss": [
+      "cony-kiss-19.png",
+      "cony-kiss-21.png",
+      "cony-kiss-22.png",
+      "cony-kiss-23.png",
+      "cony-kiss-24.png",
+      "cony-kiss-37.png",
+      "cony-kiss-61.png",
+      "cony-kiss-62.png",
+      "cony-kiss-64.png"
+    ]
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "cony-kiss-2.png",
+    "format": "RGBA8888",
+    "size": { "w": 2034, "h": 1126 },
+    "scale": "1",
+    "related_multi_packs": [
+      "cony-kiss-0.json",
+      "cony-kiss-1.json",
+      "cony-kiss-3.json",
+      "cony-kiss-4.json"
+    ],
+    "smartupdate": "$TexturePacker:SmartUpdate:dfc46aed3f74f688c78d4fb0348fb66e:fd45652de17ca91c4adfd05622cfa855:7870f37273f70f44b94333afa4b9daf1$"
+  }
+}

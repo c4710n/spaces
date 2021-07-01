@@ -1,0 +1,128 @@
+{
+  "frames": {
+    "cony-sleep-21.png": {
+      "frame": { "x": 1, "y": 667, "w": 383, "h": 663 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 160, "y": 398, "w": 383, "h": 663 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-sleep-29.png": {
+      "frame": { "x": 1156, "y": 1, "w": 383, "h": 650 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 157, "y": 411, "w": 383, "h": 650 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-sleep-33.png": {
+      "frame": { "x": 1156, "y": 1156, "w": 383, "h": 640 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 160, "y": 421, "w": 383, "h": 640 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-sleep-34.png": {
+      "frame": { "x": 771, "y": 1317, "w": 382, "h": 638 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 161, "y": 423, "w": 382, "h": 638 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-sleep-37.png": {
+      "frame": { "x": 1156, "y": 386, "w": 383, "h": 650 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 162, "y": 411, "w": 383, "h": 650 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-sleep-41.png": {
+      "frame": { "x": 386, "y": 665, "w": 383, "h": 656 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 161, "y": 405, "w": 383, "h": 656 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-sleep-51.png": {
+      "frame": { "x": 771, "y": 1, "w": 383, "h": 656 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 159, "y": 405, "w": 383, "h": 656 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-sleep-58.png": {
+      "frame": { "x": 1156, "y": 771, "w": 383, "h": 641 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 159, "y": 420, "w": 383, "h": 641 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-sleep-60.png": {
+      "frame": { "x": 1, "y": 1332, "w": 383, "h": 640 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 161, "y": 421, "w": 383, "h": 640 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-sleep-63.png": {
+      "frame": { "x": 1155, "y": 1541, "w": 383, "h": 651 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 161, "y": 410, "w": 383, "h": 651 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-sleep-66.png": {
+      "frame": { "x": 771, "y": 659, "w": 383, "h": 656 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 162, "y": 405, "w": 383, "h": 656 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-sleep-81.png": {
+      "frame": { "x": 386, "y": 1, "w": 383, "h": 662 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 166, "y": 399, "w": 383, "h": 662 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-sleep-82.png": {
+      "frame": { "x": 1, "y": 1, "w": 383, "h": 664 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 167, "y": 397, "w": 383, "h": 664 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    }
+  },
+  "animations": {
+    "cony-sleep": [
+      "cony-sleep-21.png",
+      "cony-sleep-29.png",
+      "cony-sleep-33.png",
+      "cony-sleep-34.png",
+      "cony-sleep-37.png",
+      "cony-sleep-41.png",
+      "cony-sleep-51.png",
+      "cony-sleep-58.png",
+      "cony-sleep-60.png",
+      "cony-sleep-63.png",
+      "cony-sleep-66.png",
+      "cony-sleep-81.png",
+      "cony-sleep-82.png"
+    ]
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "cony-sleep-4.png",
+    "format": "RGBA8888",
+    "size": { "w": 1807, "h": 1956 },
+    "scale": "1",
+    "related_multi_packs": [
+      "cony-sleep-0.json",
+      "cony-sleep-1.json",
+      "cony-sleep-2.json",
+      "cony-sleep-3.json",
+      "cony-sleep-5.json"
+    ],
+    "smartupdate": "$TexturePacker:SmartUpdate:c622a075d939bc8ef5b0f14f20796e73:176837e9b3025da46d56058a2d95fc5d:56f4418acf3a398a92299504591f60ff$"
+  }
+}

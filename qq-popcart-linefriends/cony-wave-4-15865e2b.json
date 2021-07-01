@@ -1,0 +1,128 @@
+{
+  "frames": {
+    "cony-wave-14.png": {
+      "frame": { "x": 1358, "y": 1224, "w": 431, "h": 679 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 168, "y": 380, "w": 431, "h": 679 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-wave-22.png": {
+      "frame": { "x": 1, "y": 381, "w": 415, "h": 659 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 177, "y": 400, "w": 415, "h": 659 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-wave-25.png": {
+      "frame": { "x": 1, "y": 798, "w": 423, "h": 668 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 170, "y": 391, "w": 423, "h": 668 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-wave-32.png": {
+      "frame": { "x": 1323, "y": 381, "w": 416, "h": 667 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 185, "y": 392, "w": 416, "h": 667 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-wave-44.png": {
+      "frame": { "x": 671, "y": 799, "w": 423, "h": 673 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 180, "y": 386, "w": 423, "h": 673 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-wave-48.png": {
+      "frame": { "x": 662, "y": 381, "w": 415, "h": 659 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 178, "y": 400, "w": 415, "h": 659 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-wave-52.png": {
+      "frame": { "x": 1346, "y": 799, "w": 423, "h": 670 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 170, "y": 389, "w": 423, "h": 670 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-wave-54.png": {
+      "frame": { "x": 1, "y": 1224, "w": 430, "h": 676 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 170, "y": 383, "w": 430, "h": 676 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-wave-57.png": {
+      "frame": { "x": 679, "y": 1224, "w": 430, "h": 677 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 171, "y": 380, "w": 430, "h": 677 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-wave-58.png": {
+      "frame": { "x": 1358, "y": 1224, "w": 431, "h": 679 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 168, "y": 378, "w": 431, "h": 679 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-wave-76.png": {
+      "frame": { "x": 1, "y": 1, "w": 378, "h": 679 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 186, "y": 379, "w": 378, "h": 679 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-wave-77.png": {
+      "frame": { "x": 682, "y": 1, "w": 378, "h": 679 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 186, "y": 379, "w": 378, "h": 679 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "cony-wave-78.png": {
+      "frame": { "x": 1363, "y": 1, "w": 378, "h": 679 },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 186, "y": 379, "w": 378, "h": 679 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    }
+  },
+  "animations": {
+    "cony-wave": [
+      "cony-wave-14.png",
+      "cony-wave-22.png",
+      "cony-wave-25.png",
+      "cony-wave-32.png",
+      "cony-wave-44.png",
+      "cony-wave-48.png",
+      "cony-wave-52.png",
+      "cony-wave-54.png",
+      "cony-wave-57.png",
+      "cony-wave-58.png",
+      "cony-wave-76.png",
+      "cony-wave-77.png",
+      "cony-wave-78.png"
+    ]
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "cony-wave-4.png",
+    "format": "RGBA8888",
+    "size": { "w": 2043, "h": 1656 },
+    "scale": "1",
+    "related_multi_packs": [
+      "cony-wave-0.json",
+      "cony-wave-1.json",
+      "cony-wave-2.json",
+      "cony-wave-3.json",
+      "cony-wave-5.json"
+    ],
+    "smartupdate": "$TexturePacker:SmartUpdate:ad35b49708336900dd0106871330da08:ee8879e496972c2de9f30758312ff273:f205eb57e915d5ff7bd714545c8f0262$"
+  }
+}

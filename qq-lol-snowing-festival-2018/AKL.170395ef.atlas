@@ -1,0 +1,300 @@
+
+AKL.png
+size: 2048,1024
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Freeze/AKL/Body
+  rotate: false
+  xy: 1730, 398
+  size: 157, 163
+  orig: 157, 163
+  offset: 0, 0
+  index: -1
+Freeze/AKL/Cloth
+  rotate: false
+  xy: 1562, 228
+  size: 75, 103
+  orig: 75, 103
+  offset: 0, 0
+  index: -1
+Freeze/AKL/Hair
+  rotate: false
+  xy: 314, 137
+  size: 258, 241
+  orig: 258, 241
+  offset: 0, 0
+  index: -1
+Heat/AKL/Hair
+  rotate: false
+  xy: 314, 137
+  size: 258, 241
+  orig: 258, 241
+  offset: 0, 0
+  index: -1
+Freeze/AKL/Head
+  rotate: true
+  xy: 1256, 333
+  size: 228, 236
+  orig: 228, 236
+  offset: 0, 0
+  index: -1
+Freeze/AKL/Ice
+  rotate: true
+  xy: 1256, 563
+  size: 459, 639
+  orig: 459, 639
+  offset: 0, 0
+  index: -1
+Freeze/AKL/Ice_Base
+  rotate: true
+  xy: 603, 50
+  size: 454, 634
+  orig: 454, 634
+  offset: 0, 0
+  index: -1
+Freeze/AKL/Ice_Light
+  rotate: false
+  xy: 2, 380
+  size: 599, 642
+  orig: 599, 642
+  offset: 0, 0
+  index: -1
+Freeze/AKL/L_Arm
+  rotate: true
+  xy: 1730, 336
+  size: 60, 96
+  orig: 60, 96
+  offset: 0, 0
+  index: -1
+Freeze/AKL/L_Eye
+  rotate: true
+  xy: 1429, 105
+  size: 40, 38
+  orig: 40, 38
+  offset: 0, 0
+  index: -1
+Freeze/AKL/L_Eye_Brow
+  rotate: false
+  xy: 1239, 470
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+Heat/AKL/L_Eye_Brow
+  rotate: false
+  xy: 1239, 470
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+Melt/AKL/L_Eye_Brow
+  rotate: false
+  xy: 1239, 470
+  size: 15, 11
+  orig: 15, 11
+  offset: 0, 0
+  index: -1
+Freeze/AKL/L_Hand
+  rotate: true
+  xy: 1239, 53
+  size: 92, 128
+  orig: 92, 128
+  offset: 0, 0
+  index: -1
+Freeze/AKL/Legs
+  rotate: false
+  xy: 1897, 791
+  size: 143, 231
+  orig: 143, 231
+  offset: 0, 0
+  index: -1
+Freeze/AKL/Melt_Ice_1
+  rotate: false
+  xy: 1469, 214
+  size: 91, 117
+  orig: 91, 117
+  offset: 0, 0
+  index: -1
+Freeze/AKL/Melt_Ice_2
+  rotate: true
+  xy: 1897, 565
+  size: 56, 73
+  orig: 56, 73
+  offset: 0, 0
+  index: -1
+Freeze/AKL/Melt_Ice_3
+  rotate: false
+  xy: 1369, 88
+  size: 58, 57
+  orig: 58, 57
+  offset: 0, 0
+  index: -1
+Freeze/AKL/Mouth
+  rotate: true
+  xy: 574, 334
+  size: 44, 17
+  orig: 44, 17
+  offset: 0, 0
+  index: -1
+Freeze/AKL/R_Arm
+  rotate: false
+  xy: 1897, 623
+  size: 85, 166
+  orig: 85, 166
+  offset: 0, 0
+  index: -1
+Freeze/AKL/R_Eye
+  rotate: false
+  xy: 1369, 53
+  size: 46, 33
+  orig: 46, 33
+  offset: 0, 0
+  index: -1
+Freeze/AKL/R_Eye_Brow
+  rotate: false
+  xy: 2, 2
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+Heat/AKL/R_Eye_Brow
+  rotate: false
+  xy: 2, 2
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+Melt/AKL/R_Eye_Brow
+  rotate: false
+  xy: 2, 2
+  size: 13, 13
+  orig: 13, 13
+  offset: 0, 0
+  index: -1
+Freeze/AKL/R_Hand
+  rotate: false
+  xy: 1239, 147
+  size: 228, 184
+  orig: 228, 184
+  offset: 0, 0
+  index: -1
+Freeze/AKL/Symbol_Line
+  rotate: false
+  xy: 603, 506
+  size: 651, 516
+  orig: 651, 516
+  offset: 0, 0
+  index: -1
+Freeze/AKL/Symbol_Mark
+  rotate: true
+  xy: 2, 17
+  size: 109, 171
+  orig: 109, 171
+  offset: 0, 0
+  index: -1
+Freeze/AKL/Symbol_Pong
+  rotate: false
+  xy: 2, 128
+  size: 310, 250
+  orig: 310, 250
+  offset: 0, 0
+  index: -1
+Heat/AKL/Head
+  rotate: true
+  xy: 1494, 333
+  size: 228, 234
+  orig: 228, 234
+  offset: 0, 0
+  index: -1
+Heat/AKL/Heat
+  rotate: true
+  xy: 287, 84
+  size: 42, 18
+  orig: 42, 18
+  offset: 0, 0
+  index: -1
+Heat/AKL/L_Eye
+  rotate: false
+  xy: 1984, 745
+  size: 56, 44
+  orig: 56, 44
+  offset: 0, 0
+  index: -1
+Heat/AKL/Mouth
+  rotate: false
+  xy: 175, 17
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+Melt/AKL/Mouth
+  rotate: false
+  xy: 175, 17
+  size: 14, 11
+  orig: 14, 11
+  offset: 0, 0
+  index: -1
+Heat/AKL/R_Eye
+  rotate: false
+  xy: 1469, 165
+  size: 53, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1
+Heat/AKL/Sweat_1
+  rotate: false
+  xy: 1239, 483
+  size: 15, 21
+  orig: 15, 21
+  offset: 0, 0
+  index: -1
+Heat/AKL/Sweat_2
+  rotate: false
+  xy: 1524, 193
+  size: 16, 19
+  orig: 16, 19
+  offset: 0, 0
+  index: -1
+Heat/AKL/Sweat_3
+  rotate: false
+  xy: 1984, 719
+  size: 16, 24
+  orig: 16, 24
+  offset: 0, 0
+  index: -1
+Heat/AKL/Sweat_4
+  rotate: false
+  xy: 1469, 141
+  size: 14, 22
+  orig: 14, 22
+  offset: 0, 0
+  index: -1
+Heat/AKL/Sweat_5
+  rotate: true
+  xy: 1562, 214
+  size: 12, 20
+  orig: 12, 20
+  offset: 0, 0
+  index: -1
+Heat/AKL/Sweat_6
+  rotate: false
+  xy: 175, 30
+  size: 110, 96
+  orig: 110, 96
+  offset: 0, 0
+  index: -1
+Melt/AKL/L_Eye
+  rotate: false
+  xy: 1639, 287
+  size: 56, 44
+  orig: 56, 44
+  offset: 0, 0
+  index: -1
+Melt/AKL/R_Eye
+  rotate: false
+  xy: 1828, 349
+  size: 53, 47
+  orig: 53, 47
+  offset: 0, 0
+  index: -1

@@ -1,0 +1,383 @@
+
+SC01.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SC01/BG
+  rotate: false
+  xy: 2, 345
+  size: 951, 1701
+  orig: 951, 1701
+  offset: 0, 0
+  index: -1
+SC01/House_1
+  rotate: true
+  xy: 1908, 1559
+  size: 142, 92
+  orig: 142, 92
+  offset: 0, 0
+  index: -1
+SC01/Smoke_1
+  rotate: false
+  xy: 1908, 1364
+  size: 78, 64
+  orig: 78, 64
+  offset: 0, 0
+  index: -1
+SC01/Smoke_2
+  rotate: false
+  xy: 1908, 1287
+  size: 65, 75
+  orig: 65, 75
+  offset: 0, 0
+  index: -1
+SC01/Smoke_3
+  rotate: false
+  xy: 955, 23
+  size: 47, 46
+  orig: 47, 46
+  offset: 0, 0
+  index: -1
+SC01/Snow/Snow_Group_1/Snow1_1
+  rotate: false
+  xy: 1988, 1395
+  size: 29, 33
+  orig: 29, 33
+  offset: 0, 0
+  index: -1
+SC01/Snow/Snow_Group_1/Snow1_10
+  rotate: true
+  xy: 1124, 52
+  size: 17, 20
+  orig: 17, 20
+  offset: 0, 0
+  index: -1
+SC01/Snow/Snow_Group_1/Snow1_11
+  rotate: false
+  xy: 1140, 71
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+SC01/Snow/Snow_Group_1/Snow1_12
+  rotate: false
+  xy: 1908, 1077
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+SC01/Snow/Snow_Group_1/Snow1_13
+  rotate: true
+  xy: 1950, 1243
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+SC01/Snow/Snow_Group_1/Snow1_14
+  rotate: false
+  xy: 1180, 74
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+SC01/Snow/Snow_Group_1/Snow1_15
+  rotate: false
+  xy: 1001, 2
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+SC01/Snow/Snow_Group_1/Snow1_2
+  rotate: false
+  xy: 1117, 71
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+SC01/Snow/Snow_Group_1/Snow1_3
+  rotate: false
+  xy: 1990, 1745
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+SC01/Snow/Snow_Group_1/Snow1_4
+  rotate: false
+  xy: 1908, 1182
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+SC01/Snow/Snow_Group_1/Snow1_5
+  rotate: false
+  xy: 1908, 1204
+  size: 35, 36
+  orig: 35, 36
+  offset: 0, 0
+  index: -1
+SC01/Snow/Snow_Group_1/Snow1_6
+  rotate: true
+  xy: 1908, 1096
+  size: 19, 17
+  orig: 19, 17
+  offset: 0, 0
+  index: -1
+SC01/Snow/Snow_Group_1/Snow1_7
+  rotate: true
+  xy: 1022, 9
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+SC01/Snow/Snow_Group_1/Snow1_8
+  rotate: false
+  xy: 1908, 1138
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+SC01/Snow/Snow_Group_1/Snow1_9
+  rotate: false
+  xy: 979, 2
+  size: 20, 19
+  orig: 20, 19
+  offset: 0, 0
+  index: -1
+SC01/Snow/Snow_Group_2/Snow2_1
+  rotate: false
+  xy: 1908, 1242
+  size: 40, 43
+  orig: 40, 43
+  offset: 0, 0
+  index: -1
+SC01/Snow/Snow_Group_2/Snow2_10
+  rotate: false
+  xy: 1103, 50
+  size: 19, 19
+  orig: 19, 19
+  offset: 0, 0
+  index: -1
+SC01/Snow/Snow_Group_2/Snow2_11
+  rotate: false
+  xy: 1045, 36
+  size: 32, 33
+  orig: 32, 33
+  offset: 0, 0
+  index: -1
+SC01/Snow/Snow_Group_2/Snow2_12
+  rotate: false
+  xy: 1239, 76
+  size: 17, 17
+  orig: 17, 17
+  offset: 0, 0
+  index: -1
+SC01/Snow/Snow_Group_2/Snow2_13
+  rotate: false
+  xy: 1990, 1721
+  size: 18, 22
+  orig: 18, 22
+  offset: 0, 0
+  index: -1
+SC01/Snow/Snow_Group_2/Snow2_14
+  rotate: false
+  xy: 1160, 73
+  size: 18, 20
+  orig: 18, 20
+  offset: 0, 0
+  index: -1
+SC01/Snow/Snow_Group_2/Snow2_15
+  rotate: false
+  xy: 1200, 74
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+SC01/Snow/Snow_Group_2/Snow2_16
+  rotate: false
+  xy: 1045, 2
+  size: 31, 32
+  orig: 31, 32
+  offset: 0, 0
+  index: -1
+SC01/Snow/Snow_Group_2/Snow2_2
+  rotate: true
+  xy: 955, 2
+  size: 19, 22
+  orig: 19, 22
+  offset: 0, 0
+  index: -1
+SC01/Snow/Snow_Group_2/Snow2_3
+  rotate: false
+  xy: 1950, 1263
+  size: 21, 22
+  orig: 21, 22
+  offset: 0, 0
+  index: -1
+SC01/Snow/Snow_Group_2/Snow2_4
+  rotate: false
+  xy: 1079, 49
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+SC01/Snow/Snow_Group_2/Snow2_5
+  rotate: false
+  xy: 1988, 1373
+  size: 22, 20
+  orig: 22, 20
+  offset: 0, 0
+  index: -1
+SC01/Snow/Snow_Group_2/Snow2_6
+  rotate: false
+  xy: 1004, 29
+  size: 39, 40
+  orig: 39, 40
+  offset: 0, 0
+  index: -1
+SC01/Snow/Snow_Group_2/Snow2_7
+  rotate: false
+  xy: 1908, 1159
+  size: 18, 21
+  orig: 18, 21
+  offset: 0, 0
+  index: -1
+SC01/Snow/Snow_Group_2/Snow2_8
+  rotate: false
+  xy: 1220, 74
+  size: 17, 19
+  orig: 17, 19
+  offset: 0, 0
+  index: -1
+SC01/Snow/Snow_Group_2/Snow2_9
+  rotate: false
+  xy: 1908, 1117
+  size: 18, 19
+  orig: 18, 19
+  offset: 0, 0
+  index: -1
+SC01/Snow_Land_2
+  rotate: false
+  xy: 955, 95
+  size: 951, 574
+  orig: 951, 574
+  offset: 0, 0
+  index: -1
+SC01/Snow_Mountain
+  rotate: false
+  xy: 955, 671
+  size: 951, 1375
+  orig: 951, 1375
+  offset: 0, 0
+  index: -1
+SC01/Toy1_1
+  rotate: true
+  xy: 1908, 1430
+  size: 127, 111
+  orig: 127, 111
+  offset: 0, 0
+  index: -1
+SC01/Toy1_2
+  rotate: true
+  xy: 1990, 1769
+  size: 109, 28
+  orig: 109, 28
+  offset: 0, 0
+  index: -1
+SC01/Toy2_1
+  rotate: true
+  xy: 1908, 1703
+  size: 175, 80
+  orig: 175, 80
+  offset: 0, 0
+  index: -1
+SC01/Toy2_2
+  rotate: false
+  xy: 955, 71
+  size: 160, 22
+  orig: 160, 22
+  offset: 0, 0
+  index: -1
+SC01/Tree_4
+  rotate: false
+  xy: 1908, 1880
+  size: 124, 166
+  orig: 124, 166
+  offset: 0, 0
+  index: -1
+SC01/Tree_5
+  rotate: false
+  xy: 2, 16
+  size: 951, 327
+  orig: 951, 327
+  offset: 0, 0
+  index: -1
+
+SC012.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+SC01/House_2
+  rotate: false
+  xy: 1294, 1316
+  size: 168, 156
+  orig: 168, 156
+  offset: 0, 0
+  index: -1
+SC01/House_3
+  rotate: false
+  xy: 955, 1256
+  size: 337, 216
+  orig: 337, 216
+  offset: 0, 0
+  index: -1
+SC01/Snow/Snow_Group_1/Snow1_16
+  rotate: false
+  xy: 955, 1474
+  size: 657, 483
+  orig: 657, 483
+  offset: 0, 0
+  index: -1
+SC01/Snow/Snow_Group_2/Snow2_17
+  rotate: false
+  xy: 2, 2
+  size: 455, 636
+  orig: 455, 636
+  offset: 0, 0
+  index: -1
+SC01/Snow_Land_1
+  rotate: false
+  xy: 2, 640
+  size: 951, 461
+  orig: 951, 461
+  offset: 0, 0
+  index: -1
+SC01/Snow_Land_3
+  rotate: false
+  xy: 2, 1103
+  size: 951, 854
+  orig: 951, 854
+  offset: 0, 0
+  index: -1
+SC01/Tree_1
+  rotate: false
+  xy: 459, 406
+  size: 193, 232
+  orig: 193, 232
+  offset: 0, 0
+  index: -1
+SC01/Tree_2
+  rotate: false
+  xy: 955, 1020
+  size: 162, 234
+  orig: 162, 234
+  offset: 0, 0
+  index: -1
+SC01/Tree_3
+  rotate: false
+  xy: 1614, 1621
+  size: 180, 336
+  orig: 180, 336
+  offset: 0, 0
+  index: -1

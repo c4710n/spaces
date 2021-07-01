@@ -1,0 +1,48 @@
+{
+  "frames": {
+    "capture-frame": {
+      "frame": { "x": 1, "y": 1, "w": 436, "h": 668 },
+      "rotated": false,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 436, "h": 668 },
+      "sourceSize": { "w": 436, "h": 668 }
+    },
+    "default-brown": {
+      "frame": { "x": 1, "y": 1352, "w": 378, "h": 569 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 186, "y": 490, "w": 378, "h": 569 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "default-cony": {
+      "frame": { "x": 1, "y": 671, "w": 378, "h": 679 },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": { "x": 186, "y": 381, "w": 378, "h": 679 },
+      "sourceSize": { "w": 750, "h": 1500 }
+    },
+    "shadow-brown": {
+      "frame": { "x": 381, "y": 671, "w": 266, "h": 36 },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 266, "h": 36 },
+      "sourceSize": { "w": 266, "h": 36 }
+    },
+    "shadow-cony": {
+      "frame": { "x": 381, "y": 939, "w": 266, "h": 36 },
+      "rotated": true,
+      "trimmed": false,
+      "spriteSourceSize": { "x": 0, "y": 0, "w": 266, "h": 36 },
+      "sourceSize": { "w": 266, "h": 36 }
+    }
+  },
+  "meta": {
+    "app": "https://www.codeandweb.com/texturepacker",
+    "version": "1.0",
+    "image": "animation-bit.png",
+    "format": "RGBA8888",
+    "size": { "w": 438, "h": 1922 },
+    "scale": "1",
+    "smartupdate": "$TexturePacker:SmartUpdate:ede33aa47a5a50825584e9878dc2f64e:ab81bae33ba47df7e3b9d58fea57b986:14d9ebfee882a7f204d45ca098aecae6$"
+  }
+}

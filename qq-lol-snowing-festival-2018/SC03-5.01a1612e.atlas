@@ -1,0 +1,166 @@
+
+SC03-5.png
+size: 2048,2048
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01/AKL
+  rotate: false
+  xy: 955, 835
+  size: 563, 458
+  orig: 563, 458
+  offset: 0, 0
+  index: -1
+01/BG
+  rotate: false
+  xy: 2, 345
+  size: 951, 1701
+  orig: 951, 1701
+  offset: 0, 0
+  index: -1
+01/Body
+  rotate: false
+  xy: 230, 177
+  size: 163, 166
+  orig: 163, 166
+  offset: 0, 0
+  index: -1
+01/Dot_1
+  rotate: true
+  xy: 247, 6
+  size: 33, 20
+  orig: 33, 20
+  offset: 0, 0
+  index: -1
+01/Dot_2
+  rotate: false
+  xy: 294, 11
+  size: 21, 28
+  orig: 21, 28
+  offset: 0, 0
+  index: -1
+01/Dot_3
+  rotate: true
+  xy: 269, 12
+  size: 27, 23
+  orig: 27, 23
+  offset: 0, 0
+  index: -1
+01/Eye
+  rotate: true
+  xy: 524, 132
+  size: 43, 39
+  orig: 43, 39
+  offset: 0, 0
+  index: -1
+01/Frame
+  rotate: false
+  xy: 955, 1295
+  size: 951, 751
+  orig: 951, 751
+  offset: 0, 0
+  index: -1
+01/Head
+  rotate: false
+  xy: 2, 101
+  size: 226, 242
+  orig: 226, 242
+  offset: 0, 0
+  index: -1
+01/LS
+  rotate: true
+  xy: 955, 3
+  size: 390, 441
+  orig: 390, 441
+  offset: 0, 0
+  index: -1
+01/L_Hand
+  rotate: false
+  xy: 2, 2
+  size: 218, 97
+  orig: 218, 97
+  offset: 0, 0
+  index: -1
+01/L_Leg
+  rotate: false
+  xy: 395, 177
+  size: 161, 166
+  orig: 161, 166
+  offset: 0, 0
+  index: -1
+01/MD
+  rotate: true
+  xy: 955, 395
+  size: 438, 533
+  orig: 438, 533
+  offset: 0, 0
+  index: -1
+01/R_Hand
+  rotate: false
+  xy: 513, 36
+  size: 197, 75
+  orig: 197, 75
+  offset: 0, 0
+  index: -1
+01/R_Leg
+  rotate: false
+  xy: 558, 196
+  size: 139, 147
+  orig: 139, 147
+  offset: 0, 0
+  index: -1
+01/Red
+  rotate: true
+  xy: 222, 5
+  size: 34, 23
+  orig: 34, 23
+  offset: 0, 0
+  index: -1
+01/SLK
+  rotate: false
+  xy: 1490, 239
+  size: 470, 469
+  orig: 470, 469
+  offset: 0, 0
+  index: -1
+01/Scarf
+  rotate: false
+  xy: 410, 113
+  size: 112, 62
+  orig: 112, 62
+  offset: 0, 0
+  index: -1
+01/Shadow_1
+  rotate: false
+  xy: 230, 109
+  size: 178, 66
+  orig: 178, 66
+  offset: 0, 0
+  index: -1
+01/Shadow_2
+  rotate: false
+  xy: 222, 41
+  size: 289, 58
+  orig: 289, 58
+  offset: 0, 0
+  index: -1
+01/YI
+  rotate: false
+  xy: 1520, 710
+  size: 436, 583
+  orig: 436, 583
+  offset: 0, 0
+  index: -1
+
+SC03-52.png
+size: 512,512
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+01/NEEKO
+  rotate: false
+  xy: 2, 2
+  size: 381, 406
+  orig: 381, 406
+  offset: 0, 0
+  index: -1
